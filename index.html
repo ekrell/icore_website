@@ -1,87 +1,331 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1"> 
-    <title>iCORE</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-<!--[if lt IE 9]>
-  <script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.js"></script>
-  <script src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
-<![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+	<script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
+	<link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.png"/>
+    <title>ICORE</title>
 </head>
+
 <body>
 
-<div class="container mb-1">
- <h3 class="py-3 text-center"><img src="img/logo_plain.jpg" alt="iCORE logo" style="height:300px;"></h3>
-   <div class="row py-1">
-      <div class="col">
-         <nav class="navbar navbar-expand-md navbar-light bg-light">
-            <a href="#" class="navbar-brand">iCORE</a>
-            <ul class="navbar-nav">
-               <li class="nav-item"><a href="https://www.tamucc.edu/" class="nav-link">TAMUCC</a></li>
-               <li class="nav-item"><a href="https://mobile.twitter.com/ICORE_TAMUCC" class="nav-link">Twitter</a></li>
-               <li class="nav-item"><a href="https://www.youtube.com/channel/UCvsK07PvushTI2BA2BhN-DQ" class="nav-link">Youtube</a></li>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-2">
+        <div class="container">
+            <a href="#" class="navbar-brand">ICORE</a> 
 
-           </ul>
-         </nav>
-       </div>
-     </div>
-   </div>
- </div>
-  
-  <div class="container">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navmenu">
+                <span class="navbar-toggler-icon"></span>
+            </button> 
+            <div class="collapse navbar-collapse" id="navmenu">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a href="#about" class="nav-link">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#research" class="nav-link">Research</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#events" class="nav-link">Events</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#contact" class="nav-link">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://mobile.twitter.com/ICORE_TAMUCC">Twitter</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.youtube.com/channel/UCvsK07PvushTI2BA2BhN-DQ">Youtube</a>
+                    </li>
+                    <li class="nav-item"> 
+                        <a class="nav-link" href="https://www.tamucc.edu/">TAMUCC</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
 
-        <p>
-      iCORE is a multidisciplinary research group at Texas A&M University - Corpus Christi (TAMUCC).
-      With a core focus on computation, we are involved in a broad spectrum of projects in robotics, coastal & atmospheric science, smart cities & agriculture, and much more. 
-        </p>
+    <!-- Showcase -->
+    <section class="p-1 text-center text-sm-start">
+    <div class="container">
+        <div class="d-sm-flex align-items-center justify-content-between">
+            <div>
+                <img class="img-fluid d-none d-sm-block" src="img/logo_plain_sm.jpg" alt="iCORE logo">
+            </div>
+            <div>
+                <p>
 
-        <p>
-      There are many opportunities to get involved with research as an undegraduate or graduate student. We encourage cross-discipline collaborations, and
-      our members have backgrounds in computer science, atmospheric science, engineering, and others. iCORE can be thought of as a hub connecting students
-      whose research has a significant computational element such as <a href="https://www.sciencedirect.com/science/article/pii/S2666827021000190">machine learning for fog prediction</a>, 
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141118722000748">energy-efficient path planning for marine robots</a>, 
-      and <a href="https://www.researchgate.net/publication/339851266_FloodSim_Flood_Simulation_and_Visualization_Framework_Using_Position-Based_Fluids?_sg%5B0%5D=vul8Dydgst_hYaVJ18NrkJq6DUIRrBA19N7XTOr5oDeMMhfDca_JDj0ZAPXH85XL1sQ8BWxztkeSw9rfZMAcd5k2mn_9RgPP2Om8QFmU.hN_IgOPs3DZR6Oej-s75s1wdeA3imQtUqnvzVxqFNQumYvfA2-ES3xBNE_FbUwwg9Abv8gDDYybmvvU0lsYZuA">simulation & visualization of floods</a>. 
-      Students are encouraged to get involved with iCORE even if they are already working in another lab on campus.
-      iCORE has opportunities to enhance, rather than replace, their existing research through networking, collaborations, workshops, etc. 
-        </p>
+                </p>
+            </div>
+        </div>
+    </div>
+    </section>
 
-        <p>
-      Several iCORE projects have been conducted with external collaborators including 
-      <a href="https://ntrs.nasa.gov/citations/20205004401">NASA</a>, 
-      <a href="https://www.tamucc.edu/lone-star-uas/">Lonestar UAS</a>, 
-      <a href="https://www.ai2es.org/">AI2ES</a>, 
-      and <a href="https://agrilifeextension.tamu.edu/">Agrilife</a>.
-        </p>
+	
+	<!-- About -->
+	<section class="p-1 text-sm-start" id="about">
+    <div class="container">
+	    <button class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseAbout" aria-expanded="false" aria-controls="collapseAbout">
+            About
+	    </button>
 
-        <h3 style="text-align:center; padding-top:50px">Selected research areas</h3>
-        <p style="text-align:center">
-        <img src="img/research_grid.png" alt="example research areas"></img> 
-        </p>
+	    <div class="collapse show" id="collapseAbout">
+			<div>
+iCORE is a multidisciplinary research group at Texas A&M University - Corpus Christi (TAMUCC).
+With a core focus on computation, we are involved in a broad spectrum of projects in robotics, coastal & atmospheric science, smart cities & agriculture, and much more.
+There are many opportunities to get involved with research as an undegraduate or graduate student. We encourage cross-discipline collaborations, and our members have backgrounds in computer science, atmospheric science, engineering, and others. iCORE can be thought of as a hub connecting students whose research has a significant computational element such as <a href="https://www.sciencedirect.com/science/article/pii/S2666827021000190">machine learning for fog prediction</a>,
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0141118722000748">energy-efficient path planning for marine robots</a>,
+and <a href="https://www.mdpi.com/2220-9964/8/5/204">simulation & visualization of floods</a>.
+Students are encouraged to get involved with iCORE even if they are already working in another lab on campus.
+iCORE has opportunities to enhance, rather than replace, their existing research through networking, collaborations, workshops, etc.
 
-        <h3 style="text-align:center; padding-top:50px">Events calendar</h3>
-      <p style="text-align:center">
-      <iframe src="https://calendar.google.com/calendar/embed?src=cbe46hvr0eut6fs7humk66pvvs%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-        </p>
+                <p>
+				<ul>
+                    <li>Large variety of vehicle platforms, sensors, cameras, single-board computers, and high-end GPUs available for projects.</li>
+                    <li>External collaborators include <a href="https://www.tamucc.edu/lone-star-uas/">Lonestar UAS</a>,
+                        <a href="https://ntrs.nasa.gov/citations/20205004401">NASA</a>, <a href="https://www.ai2es.org/">AI2ES</a>,
+                        and <a href="https://agrilifeextension.tamu.edu/">Agrilife</a>.</li>
+                    <li>Involved with TAMUCC's <a href="https://www.tamucc.edu/science/research/csreu/">Research Experience for Undergraduates</a> program.</li>
+                    <li>Student-led training and workshops on topics such as <a href="kernel.org">Linux</a>,
+                        <a href="https://git-scm.com/">git</a>, <a href="https://www.ros.org/">ROS</a>, <a href="https://gazebosim.org/">gazebo</a>, etc.</li> 
+                    <li>A supportive audience to get presentation feedback before conferences, dissertation defense, etc. </li>
+                    <li>Social events include beach cook-outs, potlucks, and game nights.</li>
+                </ul>
+                </p>
+            </div>
+        </div>
+	</div>
+	</section>
+
+    <!-- Research -->
+    <section class="p-1 text-sm-start" id="research">
+    <div class="container">
+        <button class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseResearch" aria-expanded="false" aria-controls="collapseResearch">
+            Featured Research
+        </button>
+
+        <div class="collapse" id="collapseResearch">
+            <div class="accordion accordion-flush" id="accordionResearch"> 
+
+                <!-- Item 1 -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button
+                            class="accordion-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#question-one"
+                        >
+                            Autonomous Vehicle Path Planning
+                        </button>
+                    </h2>
+                    <div
+                        id="question-one"
+                        class="accordion-collapse collapse"
+                        data-bs-parent="#questions"
+                    >
+                        <div class="accordion-body">
+
+                            <div class="row">
+                                <div class="col-md">
+                                    <img src="img/research_path-planning.jpg" alt="Path planning diagram">
+                                </div>
+                                <div class="col-md">
+Robots need to go to a destination from their current position. Despite decades of research in path planning, there are challenges because of the complex missions. We work on multi-objective planning for autonomous boats that considers the influence of wind and currents, variable water level, and shorelines. These objectives make the solution space so large that classical planning algorithms are simply too slow. We have considerable experience applying metaheuristic algorithms like Genetic Algorithm and Particle Swarm Optimization. These approaches sacrifice a guaranteed optimal solution, but with huge speed improvements. 
+
+                                </div>
+
+                                    <p class="p-2">
+                                    <ul>
+                                        <li>Featured publication: <a href="https://doi.org/10.1016/j.apor.2022.103125">Autonomous Surface Vehicle energy-efficient and reward-based path planning using Particle Swarm Optimization and Visibility Graphs</a></li>
+                                        <li>Video: <a href="https://youtu.be/y94cxkz6EZs">[ACC 2020] Metaheuristic Path Planning for Autonomous Surface Vehicles</a></li>
+                                        <li>Video: <a href=" https://youtu.be/Njlyf1SfgP0 ">[ACC 2020] Game Theoretic Potential Field for Autonomous Surface Vehicle Navigation Using Weather Forecasts</a></li>
+                                        <li><a href="content/handouts/handout_PathPlanning.pdf">Project opportunities for students</a></li>
+                                    </ul>
+                                    </p>
+                            </div>
+                        </div>
+                </div>
+
+                <!-- Item 2 -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button
+                            class="accordion-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#question-two"
+                        >
+                            Explainable Artificial Intelligence
+                        </button>
+                    </h2>
+                    <div
+                        id="question-two"
+                        class="accordion-collapse collapse"
+                        data-bs-parent="#questions"
+                    >
+                        <div class="accordion-body">
+
+                            <div class="row">
+                                <div class="col-md">
+                                    <img src="img/research_FogNetOverview.png" alt="FogNet diagram" width="600">
+                                </div>
+                                <div class="col-md">
+Complex machine learning architectures are increasingly used to develop high-performance models. 
+However, it is very difficult to understand how these models work. What relationships in the
+training data is it relying on to make decisions? There are many examples where a seemingly-powerful
+model had learned to exploit spurious relationships that were unrealistic in the real world. 
+We are working with the NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES)
+to develop XAI techniques and strategies to explain complex weather forecasting models. We are currently investigating a 3D CNN used for fog prediction, working with a forecaster from the National Weather Service to develop XAI techniques that will help to understand and improve the model. 
+
+In addition to high-dimensional inputs, the explainations themselves are high-dimensional. This makes them difficult to visualize and interpret. We are developing techniques to help end-users extract meaningful insights from large sets of high-dimensional XAI output. 
+This includes XAI aggregation techniques as well as interactive visualization tools. 
+                                </div>
+
+                                    <p class="p-2">
+                                    <ul>
+                                        <li>Featured publication: <a href="https://doi.org/10.1016/j.envsoft.2022.105424">Importance of 3D convolution and physics on a deep learning coastal fog model</a></li>
+                                        <li><a href="https://gridftp.tamucc.edu/fognet/">FogNet website (publications, video, code)</a></li>
+                                        <li>Video: <a href="https://youtu.be/9ICzQJMZy60">[AMS 2022] Explaining Complex 3D Atmospheric CNNs Using SHAP-Based Channel-wise XAI Techniques"</a></li>
+                                    </ul>
+                                    </p>
+                            </div>
+                        </div>
+                </div>
 
 
-<h3 style="text-align:center; padding-top:50px">Location</h3>
-    <p style="text-align:center"> Carlos Truan Natural Resources Center, Suite 2100 </p>
-      <p style="text-align:center">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2646.0846690689655!2d-97.32704821867918!3d27.714239763143308!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8668f63d95871db5%3A0x884a4119daf9bac5!2sCarlos%20Truan%20Natural%20Resources%20Center%2C%206300%20Ocean%20Dr%2C%20Corpus%20Christi%2C%20TX%2078412!5e0!3m2!1sen!2sus!4v1662699762505!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"></iframe>
-      </p>
+
+            </div>
+        </div>
 
 
-  </div>
+                <!-- Item 3 -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button
+                            class="accordion-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#question-three"
+                        >
+                            Deep Learning-Enhanced Photogrammetry
+                        </button>
+                    </h2>
+                    <div
+                        id="question-three"
+                        class="accordion-collapse collapse"
+                        data-bs-parent="#questions"
+                    >
+                        <div class="accordion-body">
 
-  <!-- Load Bootstrap JavaScript components -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
+                            <div class="row">
+                                <div class="col-md">
+
+                                    <p><span class="fw-bold">
+                                    Publication: 
+                                    </span></p>
+
+                                    <p><a href="https://www.mdpi.com/2072-4292/14/13/3199">
+                                    Eldefrawy, Mahmoud, Scott A. King, and Michael Starek. "Partial Scene Reconstruction for Close Range Photogrammetry Using Deep Learning Pipeline for Region Masking." Remote Sensing 14.13 (2022): 3199.
+                                    </a>
+                                    </p>
+
+
+                                    <img src="img/research_reconstruction.png" alt="3D reconstruction example" width="600">
+                                </div>
+                                <div class="col-md">
+                                    <span class="fw-bold">Abstract:</span> 3D reconstruction is a beneficial technique to generate 3D geometry of scenes or objects for various applications such as computer graphics, industrial construction, and civil engineering. There are several techniques to obtain the 3D geometry of an object. Close-range photogrammetry is an inexpensive, accessible approach to obtaining high-quality object reconstruction. However, state-of-the-art software systems need a
+                                    stationary scene or a controlled environment (often a turntable setup with a black background), which can be a limiting factor for object scanning. This work presents a method that reduces the need for a controlled environment and allows the capture of multiple objects with independent motion. We achieve this by creating a preprocessing pipeline that uses deep learning to transform a complex scene from an uncontrolled environment into multiple stationary
+                                    scenes with a black background that is then fed into existing software systems for reconstruction. Our pipeline achieves this by using deep learning models to detect and track objects through the scene. The detection and tracking pipeline uses semantic-based detection and tracking and supports using available pretrained or custom networks. We develop a correction mechanism to overcome some detection and tracking shortcomings, namely, object-reidentification
+                                    and multiple detections of the same object. We show detection and tracking are effective techniques to address scenes with multiple motion systems and that objects can be reconstructed with limited or no knowledge of the camera or the environment.
+                                </div>
+                            </div>
+                        </div>
+                </div>
+
+
+
+    </div>
+    </section>
+
+
+    <!-- Events -->
+    <section class="p-1" id="events">
+    <div class="container">
+        <button class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEvents" aria-expanded="false" aria-controls="collapseEvents">
+            Events
+        </button>
+        
+        <div class="collapse" id="collapseEvents"> 
+            <ul>
+                <li><span class="fw-bold">Sept. 23 | Fall 2022 Open House:</span> Showcasing ICORE's opportunities for students and faculty to get involved. <a href="content/handouts/handout_PathPlanning.pdf">(flyer)</a></li>
+                <li><span class="fw-bold">Oct. 14 | Linux Workshop:</span> An introduction to working with the Linux command line</li>
+                <li><span class="fw-bold">Nov. 11 | Introduction to Explainable AI (XAI):</span> Learn about XAI: techniques, successes, and how to recognize and mitigate major pitfalls</li>
+                <li><span class="fw-bold">TBD | Data Analytics:</span>: An workshop on data analytics techniques
+            </ul>
+            
+            <p style="text-align:center">
+                <iframe src="https://calendar.google.com/calendar/embed?src=cbe46hvr0eut6fs7humk66pvvs%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+            </p>
+        </div>
+
+    </div>
+    </section>
+    
+
+	<!-- Contact & Map -->
+    <section class="p-5" id="contact">
+      <div class="container">
+        <div class="row g-4">
+          <div class="col-md">
+            <h2 class="text-center mb-4">Contact</h2>
+            <ul class="list-group list-group-flush lead">
+              <li class="list-group-item">
+                <span class="fw-bold">Office:</span> Carlos Truan Natural Resources Center, Suite 2100
+              </li>
+                 <li class="list-group-item">
+                <span class="fw-bold">Addr:</span> 6300 Ocean Dr, Unit 5865, Corpus Christi, TX 78412
+              </li>
+              <li class="list-group-item">
+                <span class="fw-bold">Phone:</span> (361) 825-2855
+              </li>
+              <li class="list-group-item">
+                  <span class="fw-bold">Email:</span> <a href="mailto:icore@tamucc.edu">icore@tamucc.edu</a>
+                                                    
+              </li>
+              <li class="list-group-item">
+                <span class="fw-bold">Twitter:</span> <a href="https://mobile.twitter.com/ICORE_TAMUCC">mobile.twitter.com/ICORE_TAMUCC</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-sm">
+			<div id='map' style='width: 400px; height: 300px;'></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+<script>
+  mapboxgl.accessToken = 'pk.eyJ1IjoiZWtyZWxsIiwiYSI6ImNrdTRoOTUwZTAxemUydW1seGRmcHBpcGwifQ.NLpjrVi7u5Ra_JWR6zsXjg';
+  var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/streets-v11',
+	center: [-97.32867698816871, 27.714966465263956],
+	zoom: 16,
+  });
+</script>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+
+
+
 </body>
-</html>
 
+</html>
