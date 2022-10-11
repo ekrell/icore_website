@@ -29,8 +29,6 @@ Evan Krell is giving a Linux workshop on Fri 10/14/2022 1:00 PM - 2:30 PM. The w
 4. Working with SSH keys
 5. Using Jupyter notebooks inside a server
 6. Using groups to collaborate within Linux (as opposed to giving everything read+write+execute like I usually see people do...)
-7. A little bit of scripting
-8. And if we are up for it, one of my favorite topics: parallel scripting
 
 ## iCORE resources
 
