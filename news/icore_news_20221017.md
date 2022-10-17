@@ -3,7 +3,7 @@
 ## News
 
 Alexis Guijarro ([@alexis_guijarro](https://twitter.com/alexis_guijarro)) is a TAMUCC alumni with a masters in Computer Science who was very involved with iCORE. 
-He is a co-organizer of an upcoming robotics workshop at the [Cumbre de Contribuidores de Open Source Software (CCOSS)](https://ccoss.org/), taking place from November 10 - 12 in Guadalajara, México. 
+He is a co-organizer of an upcoming robotics workshop at the [Cumbre de Contribuidores de Open Source Software (CCOSS)](https://ccoss.org/), taking place from November 11 & 12 in Guadalajara, México. 
 The workshop, [_Crea un robot repartidor open source con PX4 y ROS_](https://ccoss.org/crea-robot-repartidor-os-px4-ros/),
 guides participants toward developing robot systems that leverage powerful tools and frameworks from the open source [PX4](https://px4.io/) and [ros](https://www.ros.org/) communities. After teaching robot fundamentals for an example delivery drone project, participants will learn how to make open source contributions and learn about the resources available for the Latin American open source community. 
 Alexis is also giving a talk at CCOSS about [ros driver development](https://ccoss.org/sessions/2022/la-aventura-de-escribir-drivers-para-ros/). 
