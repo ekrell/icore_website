@@ -15,7 +15,7 @@ Last Friday (Oct 14), Evan Krell gave a workshop/tutorial on Linux for Researche
 
 ## Upcoming events
 
-The next scheduled iCORE workshop is on eXplainable Artificial Intelligence (XAI). The workshop is still in early development, but the plan is to be very hands-on. The Linux workshop was slightly challenging because not everyone has access to the same Linux resources, but we can use [Google Colab](https://colab.research.google.com/) for the XAI material. Planned topics include (1) intro to XAI, (2) XAI pitfalls, and (3) interactive lab. Hopefully participants will work together to apply XAI to some machine learning models. 
+The next scheduled iCORE workshop is on [November 11: Intro to eXplainable Artificial Intelligence (XAI)](https://calendar.google.com/event?action=TEMPLATE&tmeid=Nmoxcm5iMWUxYnRmMnA1MGhpYnExNGpwaDAgY2JlNDZodnIwZXV0NmZzN2h1bWs2NnB2dnNAZw&tmsrc=cbe46hvr0eut6fs7humk66pvvs%40group.calendar.google.com). The workshop is still in early development, but the plan is to be very hands-on. The Linux workshop was slightly challenging because not everyone has access to the same Linux resources, but we can use [Google Colab](https://colab.research.google.com/) for the XAI material. Planned topics include (1) intro to XAI, (2) XAI pitfalls, and (3) interactive lab. Hopefully participants will work together to apply XAI to some machine learning models. 
 
 The next iCORE bi-weekly meeting is this Thursday (Oct 20) at 3:30 pm at the NRC 2100 suite. Everyone is welcome to attend. We always share research updates, plan iCORE events, get feedback on ideas, etc. We would love to see people come who attended the iCORE Open House last month. This is a good way to connect with other iCORE members and get involved with projects. 
 
