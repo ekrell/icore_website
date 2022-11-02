@@ -19,13 +19,18 @@ Roy Roberts, the president of the TAMUCC SACNAS chapter, was also hard at work t
 
 A few scenes from San Juan:
 
-![](img/PA270008.JPG )
 
-![](img/PA290112.JPG)
+![](../img/PA270008.JPG)
 
-![](img/PA290096.JPG)
 
-![](img/KIMG1538.JPG)
+![](../img/PA290112.JPG)
+
+
+![](../img/PA290096.JPG)
+
+
+![](../img/KIMG1538.JPG)
+
 
 ## Upcoming events
 
