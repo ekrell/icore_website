@@ -5,7 +5,7 @@ as well as the broader GSCS/CS programs at Texas A&M University - Corpus Christi
 
 **Next meeting:** Thursday, November 17, 3:30 pm at the NRC 2100 Suite
 
-- We will start with a practice dissertation proposal defense by Abhishek Phadke. Support Abhishek by providing feedback for his upcomming proposal seminar. 
+- We will start with a practice dissertation proposal defense by Abhishek Phadke. Support Abhishek by providing feedback for his upcoming proposal seminar. 
 - Several undergrad students have expressed interest in iCORE. This is a good opportunity to learn more about what we do here and discuss ways to get involved.
 
 ## News
@@ -48,7 +48,7 @@ but I am changing the strategy. I expect that students may have very different b
 
 **SACNAS Beach Cleanup** 
 
-The [TAMUCC SACNAS chapter](https://twitter.com/tamucc_sacnas) is hosting a beach cleanup at Padre Balli Park Beach on Saturday, November 19 2022 at 9:30-11:30am. [ee the iEngage post for details.](https://tamucc.campuslabs.com/engage/event/8573331)
+The [TAMUCC SACNAS chapter](https://twitter.com/tamucc_sacnas) is hosting a beach cleanup at Padre Balli Park Beach on Saturday, November 19 2022 at 9:30-11:30am. [See the iEngage post for details.](https://tamucc.campuslabs.com/engage/event/8573331)
 At least 2 iCORE members, Evan Krell and Mahmoud Eldefrawy, are planning to go. Let us know if you would like to join us. 
 
 
