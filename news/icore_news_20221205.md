@@ -12,6 +12,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 Last week (Dec. 1), Carly successfully defended her computer science master's thesis proposal. I should have announced the defense in the previous email, but I do not get master's student announcements in my inbox. Give Carly your congratulations!
 
+_I will add the abstract here when I get it_
 
 **Abhishek Phadke's successful dissertation proposal defense**
 
