@@ -12,7 +12,10 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 Last week (Dec. 1), Carly successfully defended her computer science master's thesis proposal. I should have announced the defense in the previous email, but I do not get master's student announcements in my inbox. Give Carly your congratulations!
 
-_I will add the abstract here when I get it_
+_Machine Learning for Storm Surge Prediction in Puerto Rico_
+
+Abstract: The impacts of climate change have increased the risk of flooding in coastal areas in recent years and this risk will likely grow over the coming decades. Tropical islands are especially vulnerable to the effects of sea level rise and the increase in frequency and intensity of tropical storms and hurricanes. Typically, coastal flooding and storm surge prediction are performed using numerical forecasting models. In recent years, models utilizing machine learning (ML) techniques, like artificial neural networks (ANN), support vector machine (SVM), and random forests (RF) have been developed as possible alternatives to numerical models. This study explores different types of ML models, including RF, ANN, and linear regression with an approach that centers on storm surge prediction in San Juan Bay, Puerto Rico based on characteristics of nearby tropical cyclones. A preliminary RF model was trained on six features (current max wind speed of the storm, current minimum pressure of the storm, distance from the San Juan tidal gauge, previous observed wind speed, previous observed minimum pressure, and storm speed) to predict verified storm surge and achieved an RMSE of 4 cm. The performance of the preliminary model suggests that, with the input of accurate tropical cyclone path prediction models, near-term storm surge prediction is achievable. 
+
 
 **Abhishek Phadke's successful dissertation proposal defense**
 
