@@ -1,4 +1,4 @@
-# iCORE Newsletter – 2022/01/24
+# iCORE Newsletter – 2023/01/24
 
 The iCORE newsletter highlights events and information related to the [innovation in COmputing REsearch (iCORE) lab](https://icore.tamucc.edu/),
 as well as the broader GSCS/CS programs at Texas A&M University - Corpus Christi and whatever else might interest that community.
