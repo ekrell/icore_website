@@ -32,12 +32,11 @@ If you have any news or resources you would like to share, send an email to [Eva
 - We were interested to learn about how some of the MSGSO members are beginning to incorporate machine learning into their work
 - We've added them to the newsletter since part of iCORE's mission is to build connections with other labs that are using computer science in some capacity
 - It goes without saying that Evan talked too long about XAI using the horse and wolf examples during the coffee break
+- [Photo gallery](https://photos.app.goo.gl/As1LdjyZhgzWLzYv5)
 
 ![MSGSO, cleaning the jetties](../img/msgso.jpeg)
 
-
 ![MSGSO, posing with full bags](../img/msgso2.JPG)
-
 
 
 ## Get involved
