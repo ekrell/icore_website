@@ -6,6 +6,10 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 [See past newsletters.](https://github.com/ekrell/icore_website/tree/main/news)
 
+## Congratulations to Wen Zhong!
+
+- [Wen Zhong](https://scholar.google.com/citations?user=Xj3uOfUAAAAJ&hl=en) has passed her qualifying exams and is now a PhD candidate in the Geospatial Computer Science program
+
 ## Upcoming events
 
 ### Next iCORE Meeting: Feb. 3, 2:00-4:00pm
@@ -54,3 +58,10 @@ As always, we encourage all iCORE members and iCORE-adjacent persons to get invo
 
 - Instructions on how to do so: https://support.microsoft.com/en-us/office/see-your-google-calendar-in-outlook-c1dab514-0ad4-4811-824a-7d02c5e77126
 - The Google calendar's address in iCal format, needed in the above steps: https://calendar.google.com/calendar/ical/cbe46hvr0eut6fs7humk66pvvs%40group.calendar.google.com/public/basic.ics
+
+
+
+
+
+#### P.S. She finally recieved the postcard
+
