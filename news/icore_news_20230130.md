@@ -28,6 +28,8 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ### Miranda White wins **first place** the AMS AI Student poster competition
 
+![Miranda White presenting at AMS](../img/IMG_4574.JPEG)
+
 - **Award:** Student Award: Poster – First Place
 - **Presentation:** [`AI Ensemble Predictions for Cold Stunning Events in the Shallow Laguna Madre`](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/418860)
 - **Presented at:** the 22nd Conference on Artificial Intelligence for Environmental Science (103rd AMS Annual Meeting)
