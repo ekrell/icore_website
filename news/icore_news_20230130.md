@@ -30,7 +30,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 [Link to first issue](https://www.ai2es.org/wp-content/uploads/2023/01/AI2ES-Newsletter-January-2023.pdf)
 
-- The NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES) has launchd its own newsletter
+- The [NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES)](https://www.ai2es.org/) has launchd its own newsletter
 - The newsletter is edited by Conrad Blucher Institute's [Raven Reese](https://www.linkedin.com/in/raven-reese-9b03751aa/)
 - Inspiration came, no doubt, from the illustrious iCORE newsletter... 
 - Many iCORE members are involved with AI2ES including Dr. Scott King, Miranda White, Hamid Kamangir, Evan Krell, et al. 
