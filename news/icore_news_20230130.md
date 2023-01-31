@@ -26,6 +26,14 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Recent happenings
 
+### Miranda White wins **first place** the AMS AI Student poster competition
+
+- **Award:**: Student Award: Poster – First Place
+- **Presentation:** “AI Ensemble Predictions for Cold Stunning Events in the Shallow Laguna Madre” 
+- **Presented at:** the 22nd Conference on Artificial Intelligence for Environmental Science (103rd AMS Annual Meeting)
+
+Congrats Miranda!!
+
 ### iCORE Discord Server Launched
 
 - Server link: https://discord.gg/NUd8QgQb
