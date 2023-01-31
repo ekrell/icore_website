@@ -6,10 +6,6 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 [See past newsletters.](https://github.com/ekrell/icore_website/tree/main/news)
 
-## Congratulations to Wen Zhong!
-
-- [Wen Zhong](https://scholar.google.com/citations?user=Xj3uOfUAAAAJ&hl=en) has passed her qualifying exams and is now a PhD candidate in the Geospatial Computer Science program
-
 ## Upcoming events
 
 ### Next iCORE Meeting: Feb. 3, 2:00-4:00pm
@@ -20,11 +16,27 @@ If you have any news or resources you would like to share, send an email to [Eva
 - Among their questions is whether or not they should shift focus heavily toward [transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)).
 - They are very interested in feedback from the computer science community, so iCORE is hosting their presention.
 
-### Abhishek's SCOTT Talk
+### Abhishek Phadke's SCOTT Talk
+
+- Abhishek Phadke is giving a SCOTT talk
+- **Topic:** "Beyond Cryptocurrency: Exploring the Diverse Applications of Blockchain Technology" 
+- **When:** February 10th, 2023 
+- **Location:** CBI conference room
+- **Online link:** Generated at a later date (see next week's newsletter)
 
 ## Recent happenings
 
 ### AI2ES newsletter
+
+[Link to first issue](https://www.ai2es.org/wp-content/uploads/2023/01/AI2ES-Newsletter-January-2023.pdf)
+
+- The NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES) has launchd its own newsletter
+- The newsletter is edited by Conrad Blucher Institute's [Raven Reese](https://www.linkedin.com/in/raven-reese-9b03751aa/)
+- Inspiration came, no doubt, from the illustrious iCORE newsletter... 
+- Many iCORE members are involved with AI2ES including Dr. Scott King, Miranda White, Hamid Kamangir, Evan Krell, et al. 
+- TAMUCC's involvement with AI2ES is really through Conrad Blucher Institute with which iCORE is highly involved
+- Evan Krell is, for better or worse, the student spotlight. Read for his Denver ice skating incident.
+- Why is Evan wearing two shirts, a poncho, and squinting in the photo?
 
 ### Helping out with MSGSO's beach clean-up
 
@@ -43,6 +55,10 @@ If you have any news or resources you would like to share, send an email to [Eva
 ![MSGSO, posing with full bags](../img/msgso2.JPG)
 
 
+## Also...
+
+She finally received the postcard (^^)b
+
 ## Get involved
 
 As always, we encourage all iCORE members and iCORE-adjacent persons to get involved and propose workshop/lecture/training ideas that they would like to present.
@@ -58,10 +74,3 @@ As always, we encourage all iCORE members and iCORE-adjacent persons to get invo
 
 - Instructions on how to do so: https://support.microsoft.com/en-us/office/see-your-google-calendar-in-outlook-c1dab514-0ad4-4811-824a-7d02c5e77126
 - The Google calendar's address in iCal format, needed in the above steps: https://calendar.google.com/calendar/ical/cbe46hvr0eut6fs7humk66pvvs%40group.calendar.google.com/public/basic.ics
-
-
-
-
-
-#### P.S. She finally recieved the postcard
-
