@@ -70,11 +70,6 @@ Congrats Miranda!!
 
 ![MSGSO, posing with full bags](../img/msgso2.JPG)
 
-
-## Also...
-
-She finally received the postcard (^^)b
-
 ## Get involved
 
 As always, we encourage all iCORE members and iCORE-adjacent persons to get involved and propose workshop/lecture/training ideas that they would like to present.
