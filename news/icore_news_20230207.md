@@ -20,6 +20,8 @@ A beautiful view of Oso Bay from the TAMUCC hike and bike trail. Such calm water
 
 ![iCORE Meeting](../img/icore_20230203.jpeg)
 
+![iCORE Meeting Snacks](../img/icoresnacks_20230203.jpeg)
+
 ## Next iCORE Meeting: Feb. 17, 2:00-4:00pm
 
 - Currently, the plan is to host the AI2ES-led discussion of machine learning architectures
@@ -36,5 +38,49 @@ A beautiful view of Oso Bay from the TAMUCC hike and bike trail. Such calm water
 - **Synopsis:** Blockchain has gained popularity because of its most well-known application: Cryptocurrency. However, this revolutionary technology has the potential to impact a multitude of industries and areas. In this presentation, I will give a short introduction to the less explored but equally impactful applications of blockchain, such as health data management and taxation.
 
 
+### 2023 Symposium for Student Innovation, Research, and Creative Activities
+
+**Abstracts are due Friday, February 17, 2023**
+
+The [2023 Symposium for Student Innovation, Research, and Creative Activities (SSIRCA)](https://www.tamucc.edu/research/student-symposium/index.php) will be held on Friday, April 21, 2023, at the TAMU-CC University Center. The symposium is open for undergraduate and grad students and will include the following activities:
+
+- Poster presentation
+- Exhibition/Gallery display
+- Oral presentation
+- Video
+- Live performance or reading
+- Panel discussion
+- Workshop
+
+Last year, iCORE members Evan Krell and Mahmoud Eldefrawy participated in the symposium and it was a very good experience. 
+We recommend that students participate. Below is a brief summary of the Symposium story:
 
 
+1. iCORE had just recently begun to occupy NRC 2100
+2. Outside the suite, two empty bulletin boards gave the place a gloomy atmosphere
+3. [2022 Spring Student Research Symposium](https://www.tamucc.edu/research/student-symposium/2022.php) participants were given a free poster print at the iCREATE lab 
+4. Despite warnings that CS students should avoid mixed poster sessions, we took advantage of the opportunity for a free poster print
+5. Mahmoud and Evan both entered. Their free prints can still be seen next the door outside iCORE
+6. They both won prizes. They were fortunate that the symposium was set up such that you were judged by people in your field
+7. Evan bought an underwater camera with the prize money that he made extensive use of in California last summer
+8. He had to brave the cold Arctic-fed waters of Monterey Bay without a wet suite to photograph many an aquatic critter
+9. Winners were invited to present at the [2022 SACNAS National Diversity in STEM Conference in San Juan, Puerto Rico](https://www.sacnas.org/2022-sacnas-ndistem-agenda-at-a-glance)
+10. Evan leapt CONUS for the first time, and enjoyed exploring San Juan with other TAMUCC attendees
+11. Last Monday, he received several slices of 年糕 
+
+![niangao](../img/niangao.JPG)
+
+It might not be obvious how #11 follows from the rest of the plot, but, in short, it was very much worth entering the Research Symposium.
+
+
+## Get involved
+
+As always, we encourage all iCORE members and iCORE-adjacent persons to get involved and propose workshop/lecture/training ideas that they would like to present.
+
+## iCORE resources
+
+- website: http://icore.tamucc.edu/
+- twitter: https://twitter.com/ICORE_TAMUCC
+- youtube: https://www.youtube.com/channel/UCvsK07PvushTI2BA2BhN-DQ
+- google calendar: https://calendar.google.com/calendar/u/0?cid=Y2JlNDZodnIwZXV0NmZzN2h1bWs2NnB2dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+- discord: https://discord.gg/NUd8QgQb
