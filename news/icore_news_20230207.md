@@ -66,7 +66,7 @@ We recommend that students participate. Below is a brief summary of the Symposiu
 8. He had to brave the cold Arctic-fed waters of Monterey Bay without a wet suite to photograph many an aquatic critter
 9. Winners were invited to present at the [2022 SACNAS National Diversity in STEM Conference in San Juan, Puerto Rico](https://www.sacnas.org/2022-sacnas-ndistem-agenda-at-a-glance)
 10. Evan leapt CONUS for the first time, and enjoyed exploring San Juan with other TAMUCC attendees
-11. Last Monday, he received several slices of 年糕 
+11. Last Monday, he was very kindly gifted with several slices of 年糕 
 
 ![niangao](../img/niangao.JPG)
 
