@@ -30,6 +30,8 @@ A beautiful view of Oso Bay from the TAMUCC hike and bike trail. Such calm water
 
 ### AI2ES & Coastal Dynamics Lab presenting about ML architectures
 
+- **Where:** iCORE (NRC 2100 Suite)
+- **When:** Friday, Feb. 10, 2023, 2:00-4:00pm
 - This meeting will contain a presentation & discussion of AI architectures.
 - Several of the [AI2ES](https://www.ai2es.org/) students (mostly undergrads) within the [Coastal Dynamics Lab](https://www.coastaldynamicslab.org/) have slides prepared for a comparison of architectures.
 - The motivation is that they would like to settle on a small number of architectures to focus on for their coastal modeling applications.
