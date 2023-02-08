@@ -24,10 +24,17 @@ A beautiful view of Oso Bay from the TAMUCC hike and bike trail. Such calm water
 
 ## Next iCORE Meeting: Feb. 17, 2:00-4:00pm
 
-- Currently, the plan is to host the AI2ES-led discussion of machine learning architectures
-- The details of this event are given in [last week's newsletter](https://github.com/ekrell/icore_website/blob/main/news/icore_news_20230130.md)
+- See next week's newsletter for details
 
 ## Upcoming Events
+
+### AI2ES & Coastal Dynamics Lab presenting about ML architectures
+
+- This meeting will contain a presentation & discussion of AI architectures.
+- Several of the [AI2ES](https://www.ai2es.org/) students (mostly undergrads) within the [Coastal Dynamics Lab](https://www.coastaldynamicslab.org/) have slides prepared for a comparison of architectures.
+- The motivation is that they would like to settle on a small number of architectures to focus on for their coastal modeling applications.
+- Among their questions is whether or not they should shift focus heavily toward [transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)).
+- They are very interested in feedback from the computer science community, so iCORE is hosting their presention.
 
 ### Abhishek Phadke is presenting for the Short Curious Open Tech Talks (SCOTT) Series
 
