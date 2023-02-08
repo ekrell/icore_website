@@ -60,18 +60,17 @@ We recommend that students participate. Below is a brief summary of the Symposiu
 2. Outside the suite, two empty bulletin boards gave the place a gloomy atmosphere
 3. [2022 Spring Student Research Symposium](https://www.tamucc.edu/research/student-symposium/2022.php) participants were given a free poster print at the iCREATE lab 
 4. Despite warnings that CS students should avoid mixed poster sessions, we took advantage of the opportunity for a free poster print
-5. Mahmoud and Evan both entered. Their free prints can still be seen next the door outside iCORE
+5. Mahmoud and Evan both entered. Their free prints can still be seen on the wall outside iCORE
 6. They both won prizes. They were fortunate that the symposium was set up such that you were judged by people in your field
 7. Evan bought an underwater camera with the prize money that he made extensive use of in California last summer
 8. He had to brave the cold Arctic-fed waters of Monterey Bay without a wet suite to photograph many an aquatic critter
 9. Winners were invited to present at the [2022 SACNAS National Diversity in STEM Conference in San Juan, Puerto Rico](https://www.sacnas.org/2022-sacnas-ndistem-agenda-at-a-glance)
 10. Evan leapt CONUS for the first time, and enjoyed exploring San Juan with other TAMUCC attendees
-11. Last Monday, he was very kindly gifted with several slices of 年糕 
+11. Last Monday, he was very kindly gifted with several slices of 年糕
 
 ![niangao](../img/niangao.JPG)
 
 It might not be obvious how #11 follows from the rest of the plot, but, in short, it was very much worth entering the Research Symposium.
-
 
 ## Get involved
 
