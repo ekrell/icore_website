@@ -18,7 +18,7 @@ If you have any news or resources you would like to share, send an email to [Eva
   
 ![snacks from Mahmoud](../img/icore_mahmoudsnacks.jpg)
 
-- Last week, we enjoyed several snacks brought my Mahmoud Eldefrawy
+- Last week, we enjoyed several snacks brought by Mahmoud Eldefrawy
 - From left to right: Persian, Indian, Egyptian
 
 - Also I forgot to take a photo, but last week we had homemade brownies from Abhishek!
@@ -66,7 +66,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 - **Abstracts are due Friday, February 17, 2023**
 - The [2023 Symposium for Student Innovation, Research, and Creative Activities (SSIRCA)](https://www.tamucc.edu/research/student-symposium/index.php) will be held on Friday, April 21, 2023, at the TAMU-CC University Center. 
 - See the [previous newsletter](https://github.com/ekrell/icore_website/blob/main/news/icore_news_20230207.md) for more information
-
+- Evan Krell is submitting a poster, and I think Miranda White is planning an oral
 
 ## Get involved
 
