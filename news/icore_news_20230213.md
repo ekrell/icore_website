@@ -11,7 +11,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ![ma lai go](../img/malaigo.JPG)
 
-- Starting the week of right, Evan Krell brought in his home-made Ma Lai Go (马拉糕)
+- Starting the week off right, Evan Krell brought in his home-made Ma Lai Go (马拉糕)
 - Based on [this recipe](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiCxvjUt5P9AhX8m2oFHSz_CqwQFnoECAwQAQ&url=https%3A%2F%2Fthewoksoflife.com%2Fma-lai-go-chinese-steamed-cake%2F&usg=AOvVaw2QVep5hnj3Ee_zOk12dohW), with two changes based on experience:
   - Reduced the steam time from 30 minutes to 25
   - Reduced stir time from 5 minutes to 4
