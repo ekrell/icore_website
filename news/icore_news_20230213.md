@@ -38,7 +38,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 ![Attending Dr. Tissot's talk](../img/icore_20230210.jpeg)
 
 - Last Friday, we had a great presentation from the AI2ES Coastal Team
-- We learned about transformers and some of the potential benifits is has over RNNs and LSTMs
+- We learned about transformers and some of their potential benefits over RNNs and LSTMs
 - There was a lot of discussion throughout from both in-person and online attendees
 - One take-away is that the Coastal Team has decided to invest heavily in transformers for their time series prediction (i.e. water level prediction)
 - But it is not clear that transformers are a panacea over other methods when dealing with imagery, spatial data, etc. 
@@ -51,7 +51,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ### MSGSO event: _Get Into Grad School Days_
 
-![MSGSO flyer](msgso_gradschool.jpg)
+![MSGSO flyer](../img/msgso_gradschool.jpg)
 
 - Hosted by the Marine Science Graduate Student Organization
 - Events are for giving guidance to undergrads that are interested in grad school
