@@ -38,6 +38,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 ![Attending Dr. Tissot's talk](../img/icore_20230210.jpeg)
 
 - Last Friday, we had a great presentation from the AI2ES Coastal Team
+- Above photo by [Raven Reese](https://www.linkedin.com/in/raven-reese-9b03751aa)
 - We learned about transformers and some of their potential benefits over RNNs and LSTMs
 - There was a lot of discussion throughout from both in-person and online attendees
 - One take-away is that the Coastal Team has decided to invest heavily in transformers for their time series prediction (i.e. water level prediction)
