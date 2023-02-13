@@ -67,3 +67,15 @@ If you have any news or resources you would like to share, send an email to [Eva
 - The [2023 Symposium for Student Innovation, Research, and Creative Activities (SSIRCA)](https://www.tamucc.edu/research/student-symposium/index.php) will be held on Friday, April 21, 2023, at the TAMU-CC University Center. 
 - See the [previous newsletter](https://github.com/ekrell/icore_website/blob/main/news/icore_news_20230207.md) for more information
 
+
+## Get involved
+
+As always, we encourage all iCORE members and iCORE-adjacent persons to get involved and propose workshop/lecture/training ideas that they would like to present.
+
+## iCORE resources
+
+- website: http://icore.tamucc.edu/
+- twitter: https://twitter.com/ICORE_TAMUCC
+- youtube: https://www.youtube.com/channel/UCvsK07PvushTI2BA2BhN-DQ
+- google calendar: https://calendar.google.com/calendar/u/0?cid=Y2JlNDZodnIwZXV0NmZzN2h1bWs2NnB2dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+- discord: https://discord.gg/NUd8QgQb
