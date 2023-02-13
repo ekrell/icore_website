@@ -1,4 +1,4 @@
-# iCORE Newsletter – 2023/02/07
+# iCORE Newsletter – 2023/02/13
 
 The iCORE newsletter highlights events and information related to the [innovation in COmputing REsearch (iCORE) lab](https://icore.tamucc.edu/),
 as well as the broader GSCS/CS programs at Texas A&M University - Corpus Christi and whatever else might interest that community.
@@ -49,13 +49,17 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Upcoming Events
 
+### MSGSO event: _Get Into Grad School Days_
 
+![MSGSO flyer](msgso_gradschool.jpg)
 
-### MSGSO
-
-- 
-- 
-- 
+- Hosted by the Marine Science Graduate Student Organization
+- Events are for giving guidance to undergrads that are interested in grad school
+- Topics include
+  - Preparing a CV, cover letter
+  - Finding the right lab 
+  - Differentiating yourself among a pool of applicants
+- The flyer suggests free pizza is involved
 
 ### 2023 Symposium for Student Innovation, Research, and Creative Activities
 
