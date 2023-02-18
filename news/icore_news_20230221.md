@@ -6,7 +6,6 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 [See past newsletters.](https://github.com/ekrell/icore_website/tree/main/news)
 
-
 ## Welcome
 
 ## Congrats to Wen Zhong: PhD Candidate
@@ -31,6 +30,8 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## iCORE Meetings
 
+**[iCORE Teams meeting link](https://teams.microsoft.com/l/meetup-join/19%3Ameeting_MDdlZDBiMTgtYzVjNS00YjhhLWE5OTctY2Y5YzMyYTljNzU5%40thread.v2/0?context=%7B%22Tid%22%3A%2234cbfaf1-67a6-4781-a9ca-514eb2550b66%22%2C%22Oid%22%3A%22994c008b-0707-4f3c-8ac0-73b65e733430%22%2C%22MessageId%22%3A%220%22%7D)**
+
 ## Last meeting: Feb. 17, 2:00-4:00pm
 
 - Abhishek showed some progress he has made toward indoor experiments with multi-agent UAV teams
@@ -38,6 +39,20 @@ If you have any news or resources you would like to share, send an email to [Eva
 - In particular, their ability to navigate (using IR and a set of ground markers) is very sensitive to the lighting
   - Performs best with a mix of sunlight from the window and the indoor standing lamp on
   - We brainstormed ideas for how to improve the lighting conditions which might improve the swarm performance
+- Below are some short recordings
+
+**Scenario:** Distress condition where one agent of the swarm loses connection and has to land
+
+![Distress condition where one agent of the swarm loses connection and has to land](../img/abhishek_3.gif)
+
+**Scenario:** Designated recue craft in the middle homes in on the lost agent and initiates reconnection protocol
+
+![Designated recue craft in the middle homes in on the lost agent and initiates reconnection protocol](../img/abhishek_4.gif)
+
+**Scenario:** The rescue agent can come back to its place where as the disconnected agent can resume swarm operations.
+
+![The rescue agent can come back to its place where as the disconnected agent can resume swarm operations.](../img/abhishek_5.gif)
+
 
 - We also discussed resources for getting started in machine learning
 - **Highly recommend:** [CIRA Short Course on Machine Learning for Weather and Climate](https://docs.google.com/document/d/1SPNxZrbHMaIEaS2dbntDow9x_tgSuFTUTOugfa2NuRo/edit)
