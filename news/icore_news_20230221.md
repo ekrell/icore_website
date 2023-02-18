@@ -11,9 +11,12 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Congrats to Wen Zhong: PhD Candidate
 
-- 
-- 
-- 
+![A banner congratulating Wen on the iCORE door](../img/wen_banner.jpg)
+
+- Wen Zhong is a GSCS student working in the [Water & Environmental Systems Analysis Lab (WESA)](https://www.wesalab.com/home)
+- Last Friday, she passed her qualifying exams and is now a PhD candidate
+- Her desk is over at iCORE so stop by and congratulate her!
+- But don't bring her anything too sweet! 
 
 ## Congrats to Marina Vicens-Miquel: presentation award at [AGU](https://www.agu.org/Fall-Meeting)
 
@@ -30,16 +33,26 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Last meeting: Feb. 17, 2:00-4:00pm
 
-- Abhishek...  
-- 
-- 
+- Abhishek showed some progress he has made toward indoor experiments with multi-agent UAV teams
+- He highlighted many issues that he has faced using the [Tello UAVs](https://www.ryzerobotics.com/tello) 
+- In particular, their ability to navigate (using IR and a set of ground markers) is very sensitive to the lighting
+  - Performs best with a mix of sunlight from the window and the indoor standing lamp on
+  - We brainstormed ideas for how to improve the lighting conditions which might improve the swarm performance
+
+- We also discussed resources for getting started in machine learning
+- **Highly recommend:** [CIRA Short Course on Machine Learning for Weather and Climate](https://docs.google.com/document/d/1SPNxZrbHMaIEaS2dbntDow9x_tgSuFTUTOugfa2NuRo/edit)
+  - An intro-level ML course with lecture recordings, slides, and Python code notebooks (Google Colab)
+  - Focused on weather & climate, but the ML concepts are broadly applicable
+  - What we like: many ML intro courses focus on simple tabular models or canned examples, but here the focus is on complex scientific applications from the start. There are challenges in dealing with, for example, high-dimension data with spatial and temporal relationships that apply to a lot of ML tasks especially in science
 
 
 ## Next meeting: March 03, 2:00-4:00pm
 
-- Mahmoud???
-- 
-- 
+**Event: Introduction to Machine Learning, Part One**
+
+- Mahmoud Eldefraway will present a 2-part lecture and workshop on machine learning
+- The material should be suitable for both undergrads as well as grads with an interest in ML
+- The programming part should be very useful for students who come from non-CS backgrounds and are using ML in their research
 
 
 ## Upcoming Events
@@ -59,6 +72,11 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ![A middle eastern sweet](../img/mahmoudsnack.JPG)
 
+- Mahmoud Eldefrawy brought some excellent Middle Eastern snacks from his recent trip to Houstin 
+- Mahmoud's take: very sweet, which is good
+- Evan's take: very sweet, needs coffee
+- Wen's take: too sweet
+- Evan's dad's take: very sweet, which is good
 
 ## Get involved
 
