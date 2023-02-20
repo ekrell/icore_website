@@ -87,7 +87,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ![A middle eastern sweet](../img/mahmoudsnack.JPG)
 
-- Mahmoud Eldefrawy brought some excellent Middle Eastern snacks from his recent trip to Houstin 
+- Mahmoud Eldefrawy brought some excellent Middle Eastern snacks from his recent trip to Houston 
 - Mahmoud's take: very sweet, which is good
 - Evan's take: very sweet, needs coffee
 - Wen's take: too sweet
