@@ -15,7 +15,6 @@ If you have any news or resources you would like to share, send an email to [Eva
 - Wen Zhong is a GSCS student working in the [Water & Environmental Systems Analysis Lab (WESA)](https://www.wesalab.com/home)
 - Last Friday, she passed her qualifying exams and is now a PhD candidate
 - Her desk is over at iCORE so stop by and congratulate her!
-- But don't bring her anything too sweet! 
 
 ### Congrats to Marina Vicens-Miquel: presentation award at [AGU](https://www.agu.org/Fall-Meeting)
 
@@ -88,10 +87,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 ![A middle eastern sweet](../img/mahmoudsnack.JPG)
 
 - Mahmoud Eldefrawy brought some excellent Middle Eastern snacks from his recent trip to Houston 
-- Mahmoud's take: very sweet, which is good
-- Evan's take: very sweet, needs coffee
-- Wen's take: too sweet
-- Evan's dad's take: very sweet, which is good
+- But very, very sweet! Highly recommend to enjoy with coffee or tea.
 
 ## Get involved
 
