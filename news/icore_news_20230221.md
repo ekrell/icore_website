@@ -8,7 +8,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
-## Congrats to Wen Zhong: PhD Candidate
+### Congrats to Wen Zhong: PhD Candidate
 
 ![A banner congratulating Wen on the iCORE door](../img/wen_banner.jpg)
 
@@ -17,7 +17,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 - Her desk is over at iCORE so stop by and congratulate her!
 - But don't bring her anything too sweet! 
 
-## Congrats to Marina Vicens-Miquel: presentation award at [AGU](https://www.agu.org/Fall-Meeting)
+### Congrats to Marina Vicens-Miquel: presentation award at [AGU](https://www.agu.org/Fall-Meeting)
 
 ![Marina presenting a poster at AGU](../img/marina_agu.jpeg)
 
