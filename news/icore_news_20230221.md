@@ -32,7 +32,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 **[iCORE Teams meeting link](https://teams.microsoft.com/l/meetup-join/19%3Ameeting_MDdlZDBiMTgtYzVjNS00YjhhLWE5OTctY2Y5YzMyYTljNzU5%40thread.v2/0?context=%7B%22Tid%22%3A%2234cbfaf1-67a6-4781-a9ca-514eb2550b66%22%2C%22Oid%22%3A%22994c008b-0707-4f3c-8ac0-73b65e733430%22%2C%22MessageId%22%3A%220%22%7D)**
 
-## Last meeting: Feb. 17, 2:00-4:00pm
+### Last meeting: Feb. 17, 2:00-4:00pm
 
 - Abhishek showed some progress he has made toward indoor experiments with multi-agent UAV teams
 - He highlighted many issues that he has faced using the [Tello UAVs](https://www.ryzerobotics.com/tello) 
@@ -61,7 +61,7 @@ If you have any news or resources you would like to share, send an email to [Eva
   - What we like: many ML intro courses focus on simple tabular models or canned examples, but here the focus is on complex scientific applications from the start. There are challenges in dealing with, for example, high-dimension data with spatial and temporal relationships that apply to a lot of ML tasks especially in science
 
 
-## Next meeting: March 03, 2:00-4:00pm
+### Next meeting: March 03, 2:00-4:00pm
 
 **Event: Introduction to Machine Learning, Part One**
 
