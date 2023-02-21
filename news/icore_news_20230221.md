@@ -76,7 +76,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 - TAMUCC has a chapter of SACNAS: Society for the Advancement of Chicanos/Hispanics and Native Americans in Science
 - It it welcome to anyone who supports their mission, and iCORE members have been involved with their events in the past
 - They are very involved with the [Symposium for Student Innovation, Research, and Creative Activities]((https://www.tamucc.edu/research/student-symposium/index.php))
-- Evan Krell & Mahmoud Eldefrawy attended last year's symposium which lead to [Evan presenting at the SACNAS NDISTEM Conference in Puerto Rico](https://github.com/ekrell/icore_website/blob/main/news/icore_news_20230207.md)
+- Evan Krell & Mahmoud Eldefrawy attended last year's symposium which lead to Evan presenting at the SACNAS NDISTEM Conference in Puerto Rico
 - They have recently shared their Spring 2023 event schedule, and we encourage you to attend anything that looks interesting
 
 ![Sacnas 2023 Spring Schedule](../img/sacnas2023.png)
