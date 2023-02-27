@@ -33,7 +33,7 @@ This 2-part workshop is designed to introduce the main concepts and practices of
 - **When:**  Friday, March. 03,   2:00-4:00 pm
 - **Online meeting link**: https://tinyurl.com/icoremeet 
 
-<img src="../img/icoremeet2.png" width="400" height="400">
+<img src="../img/icoremeet2.png" width="250" height="250">
 
 ## Get involved
 
