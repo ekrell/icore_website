@@ -10,12 +10,12 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Event: _Gentle Introduction to Machine Learning_, presented by Mahmoud Eldefrawy
 
-The next two iCORE meetings will feature a 2-part workshop by [Mahmoud Eldefrawy](https://scholar.google.com/citations?user=mOgRZRMAAAAJ&hl=en).
+Upcoming iCORE meetings will feature a 2-part workshop by [Mahmoud Eldefrawy](https://scholar.google.com/citations?user=mOgRZRMAAAAJ&hl=en).
 
 This 2-part workshop is designed to introduce the main concepts and practices of Machine Learning (ML) to undergraduates or non-computer science majors. The goal is to help students get started with their own ML applications. 
 
 - **Session 1 (March 03), Theory:** Introduction to the core mechanisms ML methods and how they can learn from data
-- **Session 2 (March 17), Coding:** How to utilize ML libraries in Python to develop applications
+- **Session 2 (March 31), Coding:** How to utilize ML libraries in Python to develop applications
 
 **Topics**
 
