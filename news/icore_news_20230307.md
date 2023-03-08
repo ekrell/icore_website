@@ -24,8 +24,8 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ### Next meeting: March 17, 2:00-4:00pm
 
-- **Reminder:** Since the next meeting is during Spring Break, Part 2 of _A Gentle Introduction to Machine Learning_ on March 31. 
-- At this meeting, we'll just give our usual progress updates and plan out the rest of the semester's events
+- **Reminder:** Since next meeting is during Spring Break, Part 2 of _A Gentle Introduction to Machine Learning_ is on March 31.
+- At this meeting, we'll just give our usual progress updates and plan out the rest of the semester's events.
 
 ## Recent Events
 
@@ -41,11 +41,11 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ### Dr. Antonio Medrano's Seminar This Friday (March 10)
 
-- [Dr. Antonio Medrano](https://antoniomedrano.github.io)
-- Subject: _Effects of Raster Terrain Representation on GIS Shortest Path_
-- Date: Friday, March 10, 2023
-- Time: 12:00 PM CST
-- Location: UC Room 320 (Bayview)  
+- **Speaker:** [Dr. Antonio Medrano](https://antoniomedrano.github.io)
+- **Subject:** _Effects of Raster Terrain Representation on GIS Shortest Path_
+- **Date:** Friday, March 10, 2023
+- **Time:** 12:00 PM CST
+- **Location:** UC Room 320 (Bayview)  
 
 **Abstract**
 
@@ -60,7 +60,7 @@ Dr. Antonio Medrano is an assistant professor of geospatial engineering at Texas
 - Dr. Medrano's work here is very relevant to some of the research we have done at iCORE. 
 - [Krell et al. published a paper about marine vehicle path planning](https://www.sciencedirect.com/science/article/abs/pii/S0141118722000748).
 - We highlighted how _terrible_ the paths are using 4-way connectivity over 8- or 16-way. 
-- That is, when the robot's choices are only `up, down, left, right`, the robot requires a lot more time and energy than if diagonal moves are allowed.
+- When the robot's choices are `up, down, left, right`, the robot requires a lot more time and energy than if diagonal moves are allowed.
 
 ### 2023 Research Image Student Competition
 
@@ -78,13 +78,13 @@ The following is copy-pasted from the announcement sent out from our local SACNA
 The Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS) is hosting the 2023 National Diversity in STEM (NDiSTEM) conference in **Portland, Oregon** from **October 26 – 28, 2023**. This is the largest multidisciplinary and multicultural STEM conference in the country, and it provides a unique opportunity to share your research, attend workshops, and connect with other STEM professionals from diverse backgrounds.
 Applications for abstracts and travel scholarships are now open, and I highly encourage you to apply. This is an excellent opportunity to showcase your work, gain valuable insights into the STEM field, and connect with other students and professionals who share your passion for STEM.
 To apply, visit [HERE](https://www.sacnas.org/conference/research-presentations) for the presentation application and [HERE](https://www.sacnas.org/conference/travel-scholarships) for the travel scholarship application. Please submit your abstract before the **deadline on March 31 at 5pm PT** for both applications. Our University has a history of sending students to this conference so even if you do not receive the travel scholarship you may still be able to go. However, to be considered for this you must have submitted a presentation and travel scholarship application.
-If you have any questions or need help with the application process, please feel free to contact me or any officer of our SACNAS Student Chapter. We are here to support you and help you succeed in your academic and professional endeavors!
+If you have any questions or need help with the application process, please feel free to contact [Roy Roberts] or any officer of our SACNAS Student Chapter. We are here to support you and help you succeed in your academic and professional endeavors!
 
 **Evan's note:** 
 
 - I just want to mention that last year, I had extremely good help from the SACNAS Student Programs Coordinator Emily Pavlik. 
 - IT (or someone) accidently terminated my `evan.krell@islander.tamucc` email address.
-- Emily Pavlov noticed that the emails related to my NDISTEM poster presentation were bouncing and personally called me to clear things up.
+- Emily Pavlov noticed that emails related to my NDISTEM poster presentation were bouncing and personally called me to clear things up.
 - Within minutes, she forwarded all the relevant messages to me. Otherwise, I would have no confirmation code or other important details.
 
 
