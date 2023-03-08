@@ -22,10 +22,10 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ![The in-person audience](../img/workshop_introml_2.jpeg)
 
-### Next meeting: March 17, 2:00-4:00pm
+### Next meeting: March 31, 2:00-4:00pm
 
-- **Reminder:** Since next meeting is during Spring Break, Part 2 of _A Gentle Introduction to Machine Learning_ is on March 31.
-- At this meeting, we'll just give our usual progress updates and plan out the rest of the semester's events.
+- **Because of Spring Break, no meeting on March 17. Next is March 31**
+- Mahmoud will present Part 2 of _A Gentle Introduction to Machine Learning_ 
 
 ## Recent Events
 
