@@ -42,7 +42,8 @@ So far we have one volunteer: Florian Morvais
 |                 |             |                                                                                                                              |
 |                 |             |                                                                                                                              |
 
-**Help us fill out this table: contact Evan Krell (ekrell@islander.tamucc.edu) if you want to present!**
+- **Help us fill out this table: contact Evan Krell (ekrell@islander.tamucc.edu) if you want to present!**
+- **Or share this newsletter with someone you know**
 
 ## Upcoming Events
 
@@ -51,13 +52,11 @@ So far we have one volunteer: Florian Morvais
 - [Applications Open for SACNAS NDISTEM](https://github.com/ekrell/icore_website/blob/main/news/icore_news_20230307.md)
 - [2023 Research Image Student Competition](https://github.com/ekrell/icore_website/blob/main/news/icore_news_20230307.md)
 
-### 
-
 ## Weekly Snack Report
 
-- For reasons outside the scope of the newsletter, Evan has been working remotely from Houston since mid-February
-- So he is unable to monitor the state of iCORE snacks, and hopes that his lab-mates are eating well
-- But Evan _has_ been taking advantage of the plentiful Chinese food: [click for an image gallery](https://photos.app.goo.gl/VHv1u7wzcgtSVLkp6)
+- For reasons outside the scope of the newsletter, Evan has been working remotely from Houston since mid-February.
+- So he is unable to monitor the state of iCORE snacks, and hopes that his lab-mates are eating well.
+- But Evan _has_ been taking advantage of the plentiful Chinese food: [click for an image gallery](https://photos.app.goo.gl/VHv1u7wzcgtSVLkp6).
 
 Here are Evan's rankings, based on only one or two visits to each location:
 
@@ -66,6 +65,8 @@ Here are Evan's rankings, based on only one or two visits to each location:
 3. [Mala Sichuan Bistro](https://malasichuan.com/): This restaurant is quite popular with several locations in the area. I am impressed with the wide array of menu items, but perhaps I didn't get the best things. The [three pepper beaten duck](https://photos.app.goo.gl/EDWD9x6nNL2TzrGD6) was very good, but the total amount of duck meat was low.
 4. [Tiger Noodle House](https://tigernoodletexas.com/): I really liked my [shredded sweet garlic pork](https://photos.app.goo.gl/5bBD6Ekp2V3VZZXU8) , but the rice was the worst of the placest I've tried here.
 5. [Trendy Dumpling](https://trendydumpling.com/): Hit and miss: I loved the [dan dan noodles](https://photos.app.goo.gl/9T6Di3CyrQML6AKq8), but the [chicken dumplings](https://photos.app.goo.gl/f9Rft1SLmxcUbvW19) were average at best. Their [spicy dumplings](https://photos.app.goo.gl/xQA4AVWktb52Mx2w7) are hotter than Cooking Girl's, but with thicker wrappers that are not quite as appealing. Also, I ordered a Honeydew Milk Tea that was good, but they filled it with so much ice that it was impossible to access the additions. So I had to eat the boba at the bottom after finishing the drink.
+
+Please send any recommendations my way. Next I want to try [Northern Pasta](https://vipmenu.wixsite.com/northern-pasta) for their Chinese breakfast.
 
 ## Get involved
 
