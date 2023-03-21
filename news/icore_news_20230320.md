@@ -11,9 +11,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 ## Welcome
 
 - We hope everyone had a great spring break
-
-
-
+- Congrats to iCORE alumni [Hamid Kamangir](https://scholar.google.com/citations?user=YLYJGQ8AAAAJ&hl=en): he will be starting an internship as a Data Scientist at Microsoft this summer! A wonderful opportunity!
 
 ## iCORE Meetings
 
