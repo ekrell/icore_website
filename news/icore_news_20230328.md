@@ -64,7 +64,7 @@ Spotted a rather large armadillo specimen in Houston.
 - **Where:** Michael and Karen O'Connor Building (OCNR) 258
 - **When:** 3-4 PM Central
 - **Online meeting**: I don't have a URL yet, but zoom option will be available
-- His research involed cybersecurity and autonomous systems
+- His research involves cybersecurity and autonomous systems
 - We don't have any description of what the talk is about, but should be something alone those lines
 - GCSC student Efrén López Morales, who sometimes attends iCORE events, is one of his PhD students
 
@@ -75,7 +75,7 @@ Spotted a rather large armadillo specimen in Houston.
 - **Where:** Portland, Oregon
 - **When:** October 26 – 28
 - **Funding:**
-  - There may be opportunities to be funded through the local SACNAS Chapter,** but nothing guaranteed**
+  - There may be opportunities to be funded through the local SACNAS Chapter, **but nothing guaranteed**
   - But to be eligible for funding through TAMUCC, last year you needed to have done the following:
     1. Apply for the [SACNAS Travel Scholarship](https://www.sacnas.org/conference/travel-scholarships), **if eligable**
     2. Apply to [present a poster or talk](https://www.sacnas.org/conference/research-presentations)
