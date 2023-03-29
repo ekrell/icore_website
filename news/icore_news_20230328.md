@@ -63,7 +63,7 @@ Spotted a rather large armadillo specimen in Houston.
 - **What:** SACNAS is hosting a talk from [Dr. Carlos Rubio-Medrano](https://carlosrubiomedrano.com), assistant Professor in the Computer Science department
 - **Where:** Michael and Karen O'Connor Building (OCNR) 258
 - **When:** 3-4 PM Central
-- **Online meeting**: I don't have a URL yet, but zoom option will be available
+- **Online meeting**: [zoom link](https://tamucc.zoom.us/j/93668554553)
 - His research involves cybersecurity and autonomous systems
 - We don't have any description of what the talk is about, but should be something alone those lines
 - GCSC student Efrén López Morales, who sometimes attends iCORE events, is one of his PhD students
