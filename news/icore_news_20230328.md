@@ -33,8 +33,6 @@ Spotted a rather large armadillo specimen in Houston.
   - CS students can learn how their knowledge can be applied to research in other fields
   - Non-CS can get potentially get feedback on techniques and tools they likely don't know about
 
-**So far we have one volunteer: Florian Morvais**
-
 | **Name**        | **Program** | **Description**                                                                                                              |
 |-----------------|-------------|------------------------------------------------------------------------------------------------------------------------------|
 | Florian Morvais | CMSS        | Using machine learning to predict phenomena such as lightning rate and clouds' maximum echo top heights from satellite data (CS applied to atmospheric science)|
