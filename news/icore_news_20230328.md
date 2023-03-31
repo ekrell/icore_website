@@ -94,4 +94,4 @@ As always, we encourage all iCORE members and iCORE-adjacent persons to get invo
 - twitter: https://twitter.com/ICORE_TAMUCC
 - youtube: https://www.youtube.com/channel/UCvsK07PvushTI2BA2BhN-DQ
 - google calendar: https://calendar.google.com/calendar/u/0?cid=Y2JlNDZodnIwZXV0NmZzN2h1bWs2NnB2dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
-- discord: https://discord.gg/NUd8QgQb
+- discord: https://discord.gg/3eeMN229cr
