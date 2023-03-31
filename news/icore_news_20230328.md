@@ -38,7 +38,7 @@ Spotted a rather large armadillo specimen in Houston.
 | **Name**        | **Program** | **Description**                                                                                                              |
 |-----------------|-------------|------------------------------------------------------------------------------------------------------------------------------|
 | Florian Morvais | CMSS        | Using machine learning to predict phenomena such as lightning rate and clouds' maximum echo top heights from satellite data  |
-|                 |             |                                                                                                                              |
+| Josh            |    GSCS     | Swarm array imaging: a swarm of drones capture synchronous imagery over dynamics environments                                                                                                                              |
 |                 |             |                                                                                                                              |
 |                 |             |                                                                                                                              |
 
