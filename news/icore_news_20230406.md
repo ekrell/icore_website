@@ -1,4 +1,4 @@
-# iCORE Newsletter – 2023/03/20
+# iCORE Newsletter – 2023/04/06
 
 ![logo](../img/logo_plain_sm.jpg)
 
@@ -29,15 +29,15 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ### Next meeting: April 14, 2:00-4:00pm
 
-**Meeting Theme**: _computer science + domain expertise**
+**Meeting Theme: computer science + domain expertise**
 
-- The purpose of these meeting is to share experiences where computer science has been applied to other fields.
+- The purpose of this meeting is to share experiences where computer science has been applied to other fields.
 - Seeking volunteers who are either:
   1. **outside CS** to share how they are using programming and CS in their research.
-  2. **inside CS** who have worked with domain experts to solve problems that required their expertise
-- The goal is to share knowledge and find opportunities for collaboration 
-  - CS students can learn how their knowledge can be applied to research in other fields
-  - Non-CS can get potentially get feedback on techniques and tools they likely don't know about
+  2. **inside CS** who have worked with domain experts to solve problems that required their expertise.
+- The goal is to share knowledge and find opportunities for collaboration.
+  - CS students can learn how their knowledge can be applied to research in other fields.
+  - Non-CS can get potentially get feedback on techniques and tools they likely don't know about.
 
 
 | **Name**        | **Program** | **Domain** | **Description**                                                                                                              |
@@ -96,13 +96,32 @@ How to kill a range of processes:
     kill -9 {PID1..PID2}      # e.g.   kill -9 {10..20}
 
 - Make sure to kill only processes that should be killed. 
-- Thankfully, you only have permission to kill processes that you own, so mine are safe if you use the wrong PID
+- Thankfully, you only have permission to kill processes that you own, so mine are safe if you use the wrong PID.
 
 ## Weekly Snack Report
 
 - Since Evan is still in Houston, he has continued to explore everything edible in Houston's Chinatown. 
 - Despite the name, it is as much a Vietnamese town as Chinese. There is a _Hong Kong Mall_ that is almost exclusively Vietnamese establishments.
+- Just look at this Beautiful Chiu Chow-Style Oyster Omelette from Jiu Fu Cafe: 
 
+![oyster omelette](../img/chiu_chow_oyster_omelette__Jiu_Fu_Cafe__Houston,_TX--labeled.jpg)
 
+- Notice the label I've added to the bottom-left corner.
+- You surely don't think a self-respecting coder is manually typing that in GIMP???
+- Well, I was until a couple days ago, but I am now using Bash and Python to add the labels automatically to the whole directory of photos.
+- Check out the repo: https://github.com/ekrell/auto_label_images
+- A very simple couple of scripts, but a good example of making life easier with a little bit of programming.
 
+## Get involved
+
+As always, we encourage all iCORE members and iCORE-adjacent persons to get involved and propose workshop/lecture/training ideas that they would like to present.
+
+## iCORE resources
+
+- location: NRC 2100 Suite (https://goo.gl/maps/Htbp1YMASAmYqkFu9)
+- website: http://icore.tamucc.edu/
+- twitter: https://twitter.com/ICORE_TAMUCC
+- youtube: https://www.youtube.com/channel/UCvsK07PvushTI2BA2BhN-DQ
+- google calendar: https://calendar.google.com/calendar/u/0?cid=Y2JlNDZodnIwZXV0NmZzN2h1bWs2NnB2dnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+- discord: https://discord.gg/3eeMN229cr
 
