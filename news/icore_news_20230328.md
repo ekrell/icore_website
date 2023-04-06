@@ -1,4 +1,4 @@
-# iCORE Newsletter – 2023/03/20
+# iCORE Newsletter – 2023/03/28
 
 ![logo](../img/logo_plain_sm.jpg)
 
