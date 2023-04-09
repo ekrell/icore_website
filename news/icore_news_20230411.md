@@ -26,6 +26,8 @@ __photo of corpus__
 
 ![Abhishek receiving award at 3MT](../img/Abhishek_3rdPlace_2.jpg)
 
+**Congrats to Abhishek!**
+
 ### Next meeting: April 14, 2:00-4:00pm
 
 **Schedule**
@@ -56,8 +58,31 @@ __photo of corpus__
 
 ## Tech Tips
 
+_Share your tech tips with the iCORE community: email Evan Krell (ekrell@islander.tamucc.edu)_. 
 
+It is, perhaps, little known that the `.pdf` output of [Matplotlib's pyplot](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html)
+is stored such that each graphical element is a separate object. This means that you can modify your plots after the fact using vector-based design tools such as Adobe Illustrator or the open source alternative [InkScape](https://inkscape.org/). 
 
+- In a Python program, the following is used to save the figure to a file. 
+- The output filetype is automatically determined based on the extension. (Here, a PDF since we used `.pdf`).
+
+<b></b>
+
+    plt.savefig("plot_example.pdf")
+
+- [Download it here](../img/plot_example.pdf), if you want to follow along. 
+
+**Modify the plot in InkScape**
+
+- Open the file `plot_example.pdf`.
+- Using the Select tool (arrow), you can drag individual elements around.
+- However, some elements are _grouped_ together, so that they all move together. 
+- To modify the elements inside a group, _ungroup_ them by selecting the group and pressing `CONTROL + SHIFT + G`.
+- I am not going to give a full InkScape tutorial here, but the following shows how you can modify the plot.
+
+[<img src="https://img.youtube.com/vi/IOvmcFlQidY/maxresdefault.jpg" width="50%">](https://youtu.be/IOvmcFlQidY)
+
+This is **much** better than modifying a `.png` in PhotoShop or GIMP because the high-quality, scalable vectors are preserved.
 
 ## Weekly Snack Report
 
