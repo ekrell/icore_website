@@ -65,7 +65,7 @@ The images were displayed yesterday, and the competition results will be announc
 _Share your tech tips with the iCORE community: email Evan Krell (ekrell@islander.tamucc.edu)_. 
 
 It is, perhaps, little known that the `.pdf` output of [Matplotlib's pyplot](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html)
-is stored such that each graphical element is a separate object. This means that you can modify your plots after the fact using vector-based design tools such as Adobe Illustrator or the open source alternative [InkScape](https://inkscape.org/). 
+is stored such that each graphical element is a separate object. This means that you can modify your plots after the fact using vector-based design tools such as Adobe Illustrator or the open source alternative [InkScape](https://inkscape.org/). All text are modifiable (_not_ rasterized), and each tic mark, bar, scatter point, etc can be individually modified.
 
 - In a Python program, the following is used to save the figure to a file. 
 - The output filetype is automatically determined based on the extension. (Here, a PDF since we used `.pdf`).
