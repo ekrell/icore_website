@@ -15,7 +15,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 Abhishek Phadke, flying multiple aerial vehicles on campus. 
 
 This is Abhishek's entry to the [Research Image Student Competition](https://www.tamucc.edu/research/ri-week/risc.php). 
-The images were displayed today, and the competition results will be announced Friday. Good luch to Abhishek!
+The images were displayed yesterdat, and the competition results will be announced Friday. Good luch to Abhishek!
 
 
 ## Recent Happenings
