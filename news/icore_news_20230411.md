@@ -53,9 +53,10 @@ The images were displayed yesterday, and the competition results will be announc
 | **Name**        | **Program** | **Domain** | **Description**                                                                                                              |
 |-----------------|-------------|------------|------------------------------------------------------------------------------------------------------------------|
 | Florian Morvais | CMSS | Atmospheric science        | Using machine learning to predict phenomena such as lightning rate and clouds' maximum echo top heights from satellite data.  |
-| Josh Boyd       | GSCS | Robotics & surveying       | Swarm array imaging: a swarm of drones capture synchronous imagery over dynamics environments.                                |
-|       |       |     |                                                                                                                                                         |
 | Evan Krell      | GSCS | Atmospheric science        | Using machine learning to detect wildfire-driven thunderstorms (pyroCbs) from satellite imagery and atmospheric model data.   |
+| Josh Boyd       | GSCS | Robotics & surveying       | Swarm array imaging: a swarm of drones capture synchronous imagery over dynamics environments.                                |
+| Abhishek Phadke | GSCS   | Robotics    | Resilient swarm of autonomous aerial vehicles. |
+
 
 - **Help us fill out this table: contact Evan Krell (ekrell@islander.tamucc.edu) if you want to present!**
 - **Or share this newsletter with someone you know**
