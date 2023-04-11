@@ -10,8 +10,12 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
-__photo of corpus__
+![Abhishek controlling drone](../img/abhishek_risc2023.jpg)
 
+Abhishek Phadke, flying multiple aerial vehicles on campus. 
+
+This is Abhishek's entry to the [Research Image Student Competition](https://www.tamucc.edu/research/ri-week/risc.php). 
+The images were displayed today, and the competition results will be announced Friday. Good luch to Abhishek!
 
 
 ## Recent Happenings
@@ -78,16 +82,11 @@ is stored such that each graphical element is a separate object. This means that
 - Using the Select tool (arrow), you can drag individual elements around.
 - However, some elements are _grouped_ together, so that they all move together. 
 - To modify the elements inside a group, _ungroup_ them by selecting the group and pressing `CONTROL + SHIFT + G`.
-- I am not going to give a full InkScape tutorial here, but the following shows how you can modify the plot.
+- I am not going to give a full InkScape tutorial here, but the following shows (crudely) how you can modify the plot.
 
 [<img src="https://img.youtube.com/vi/IOvmcFlQidY/maxresdefault.jpg" width="50%">](https://youtu.be/IOvmcFlQidY)
 
 This is **much** better than modifying a `.png` in PhotoShop or GIMP because the high-quality, scalable vectors are preserved.
-
-## Weekly Snack Report
-
-__photo of snacks from Houston shared at iCORE__
-
 
 ## Get involved
 
