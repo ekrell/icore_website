@@ -22,7 +22,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ### Previous meeting: 
 
-- We had a several presenters on the theme of applying AI and other CS techniques to domain problems.
+- We had several presenters on the theme of applying AI and other CS techniques to domain problems.
 - We had an invited guest Florian Morvais present on how he uses AI for the atmospheric science domain.
 - This was followed by several short presentations from iCORE members: Abhiskek Phadke, Josh Boyd, and Mohit Mathew (pictured below).
 
