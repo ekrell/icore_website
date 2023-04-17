@@ -29,7 +29,7 @@ __CORPUS PHOTO__
 
 - We had a several presenters on the theme of applying AI and other CS techniques to domain problems.
 - We had an invited guest Florian Morvais present on how he uses AI for the atmospheric science domain.
-- This was followed by several short presentations from iCORE members: Abhiskek Phadke, Josh Boyd, and Mohit Mathew
+- This was followed by several short presentations from iCORE members: Abhiskek Phadke, Josh Boyd, and Mohit Mathew (pictured below).
 
 ![Mohit presenting at iCORE](../img/icore_mohit.JPG)
 
@@ -37,15 +37,30 @@ __CORPUS PHOTO__
 
 ### Next meeting: April 28, 2:00-4:00pm
 
+- We do not currently have a particular agenda beyond updates, general research discussion, and iCORE planning, etc.
 
+## Upcoming Events
 
+### Symposium for Student Innovation, Research, and Creative Activities (Friday, 4/21)
 
+- Several iCORE members are participating with poster or oral presentations.
+- Let me know if I missed anyone below.
 
-
+| **Name**        | **Type** | **Time** | **Location**       | **Title**                                                                                                                                            |
+|-----------------|----------|----------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Josh Boyd       | oral     | 11:34 AM | UC Jetty 123       | UAV SWARM-BASED SYNCHRONOUS ARRAY IMAGING FOR COASTAL ENVIRONMENTS                                                                                   |
+| Abhishek Phadke | poster   | 02:00 PM | UC Anchor Ballroom | DRONE2DRONE: A SEARCH AND RESCUE FRAMEWORK FOR FINDING LOST UAV SWARM AGENTS.                                                                        |
+| Mohit Mathew    | oral     | 09:50 AM | UC Oso 221         | AUTONOMOUS GROUND VEHICLE NAVIGATION                                                                                                                 |
+| Florian Morvais | poster   | 02:00 PM | UC Anchor Ballroom | ESTIMATE GLM-OBSERVED FLASH RATE IN PRECIPITATION FEATURES BY APPLYING AI NEURAL NETWORK MODELS TO THE GMI PASSIVE-MICROWAVE BRIGHTNESS TEMPERATURES |
+| Evan Krell      | poster   | 02:00 PM | UC Anchor Ballroom | DEVELOPMENT OF A MACHINE LEARNING SYSTEM FOR DETECTING THE ATMOSPHERIC POTENTIAL OF WILDFIRE-DRIVEN THUNDERSTORMS                                    |
 
 ## Weekly Snack Report
 
 ![Snacks at iCORE](../img/icore_snacks_2.png)
+
+- Swiss chocolates straight the source, thanks to Dr. Tissot.
+- Middle eastern sweets (a.k.a. _the usual_) from Mahmoud.
+- And Chinese peanute candies from Evan.
 
 ## Get involved
 
