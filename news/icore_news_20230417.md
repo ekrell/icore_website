@@ -10,16 +10,11 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
+![Flowers at the Hike & Bike trail](../img/flowers.JPG)
 
-__CORPUS PHOTO__
-
-
-
-
-
-
-
-
+- Take some time to explore the beach around TAMUCC's Hike & Bike trail.
+- A number of flowers are in bloom.
+- I recieved a great number of cactus thorns in obtaining the above photo. Give me a bit of credit for what I go through to make this newsletter happen each week!
 
 ## iCORE Meetings
 
