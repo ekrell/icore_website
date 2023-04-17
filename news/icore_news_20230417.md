@@ -39,6 +39,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 ### Symposium for Student Innovation, Research, and Creative Activities (Friday, 4/21)
 
 - Several iCORE members are participating with poster or oral presentations.
+- [Full schedule](https://gridftp.tamucc.edu/genomics/Program2023.html#STUDENT_SYMPOSIUM).
 - Let me know if I missed anyone below.
 
 | **Name**        | **Type** | **Time** | **Location**       | **Title**                                                                                                                                            |
