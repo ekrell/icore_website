@@ -55,7 +55,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 - Swiss chocolates straight the source, thanks to Dr. Tissot.
 - Middle eastern sweets (a.k.a. _the usual_) from Mahmoud.
-- And Chinese peanute candies from Evan.
+- And Chinese peanut candies from Evan.
 
 ## Get involved
 
