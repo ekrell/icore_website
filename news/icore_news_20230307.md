@@ -33,7 +33,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 - Evan Krell give a 30-minute presentation at the AI2ES site-wide meeting
 - Topic: _Synthetic Benchmarks to Study the Influence of Correlated Values on XAI for Geoscience_
-- The slides and recording will show up soon on the [AI2ES Talks](https://www.ai2es.org/publications/ai2es-talks/) page
+- [Slides](https://drive.google.com/file/d/1YUvz_Q2h9riAaOtaJjMIH9_lJvgDetdC/view) & [recording](https://drive.google.com/file/d/1_oavjut93p83id3OEJQnQdfTplpQSKYx/view) (I am second speaker in that video).
 - The material is about the numerous challenges in applying XAI to high-dimensional geoscience raster datasets
 - These challenges motivate Evan's work at his upcoming 2-month stay at [CIRA](https://www.cira.colostate.edu/)
 
