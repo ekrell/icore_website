@@ -47,7 +47,7 @@ Summer is a great time for undergrads to start their research.
 - Evan brought the EMILY USV and discussed efforts toward autonomous habitat mapping in the Laguna Madre.
 - Miranda gave out charming plush turtles and discussed how we use water temperature predictions to mitigate the harm on sea turtles and fisheries from cold stunning events.
 
-![](PHOTO)
+![Evan and Miranda at EDBD](../img/edbd.png)
 
 ![](PHOTO)
 
