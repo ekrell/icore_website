@@ -51,7 +51,7 @@ Summer is a great time for undergrads to start their research.
 
 ### Miranda White & Evan Krell at Earth Day Bay Day
 
-- iCORE shared a booth with the [Coastal Dynamics Labs (CDL)](https://www.coastaldynamicslab.org/).
+- iCORE shared a booth with the [Coastal Dynamics Lab (CDL)](https://www.coastaldynamicslab.org/).
 - Our theme was to educate the public on how we are leveraging AI to tackle complex coastal problems locally.
 - We develop AI models to inform local stakeholders so that they can make strategic, data-driven decisions.
 - Evan brought the EMILY USV and discussed efforts toward autonomous habitat mapping in the Laguna Madre.
