@@ -10,10 +10,9 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
+![Port A](../img/portA.jpg)
 
-![](PHOTO)
-
-
+A scene from a recent outing to Port Aransas. 
 
 ## iCORE Meetings
 
@@ -24,10 +23,21 @@ If you have any news or resources you would like to share, send an email to [Eva
 **No event:** this is a great opportunity for anyone interested in working with iCORE to make a plan for how you can get involved. 
 Summer is a great time for undergrads to start their research.
 
-- General updates
-- Plans for next semester: workshops, etc
-- We need to update the iCORE website
-- We need a protocol for documenting finished projects (or project milestones)
+- General updates.
+- Plans for next semester: workshops, etc.
+- We need to update the iCORE website.
+- We need a protocol for documenting finished projects (or project milestones).
+
+## Upcoming Events
+
+### SACNAS Pizza Social (May 4)
+
+- **What:** Free pizza at B&J's.
+- **When:** May 4, 5:00 - 7:00 PM.
+- **Where:** B&Js Pizza - The Original  (6335 S Padre Island Dr, Corpus Christi, Texas 78412).
+- Hosted by [SACNAS Chapter at TAMUCC](https://tamucc.campuslabs.com/engage/organization/tamucc_sacnas).
+- Everyone invited, not just SACNAS members. iCORE and SACNAS members have a history of working together for events.
+- This is a good opportunity to learn about SACNAS and eat free pizza.
 
 ## Recent Happenings
 
@@ -36,7 +46,7 @@ Summer is a great time for undergrads to start their research.
 ![Abhishek](../img/abhi.jpg)
 
 - Abhishek's research is related to resiliency for multi-agent autonomous vehicle systems.
-- He past his qualifying exams last week and is now a PhD candidate.
+- He passed his qualifying exams last week and is now a PhD candidate.
 - Be sure to give him your congrats. 
 
 ### Miranda White & Evan Krell at Earth Day Bay Day
