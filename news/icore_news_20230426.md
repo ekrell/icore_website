@@ -33,7 +33,7 @@ Summer is a great time for undergrads to start their research.
 
 ### Abhishek Phadke is now a PhD candidate!
 
-![](PHOTO)
+![Abhishek](../img/abhi.jpg)
 
 - Abhishek's research is related to resiliency for multi-agent autonomous vehicle systems.
 - He past his qualifying exams last week and is now a PhD candidate.
@@ -46,10 +46,9 @@ Summer is a great time for undergrads to start their research.
 - We develop AI models to inform local stakeholders so that they can make strategic, data-driven decisions.
 - Evan brought the EMILY USV and discussed efforts toward autonomous habitat mapping in the Laguna Madre.
 - Miranda gave out charming plush turtles and discussed how we use water temperature predictions to mitigate the harm on sea turtles and fisheries from cold stunning events.
+- [Photo gallery taken by Raven Reese](https://conradblucherinstitute.smugmug.com/Photos/20230422-Earth-Day-Bay-Day/).
 
 ![Evan and Miranda at EDBD](../img/edbd.png)
-
-![](PHOTO)
 
 ### Several iCORE members presented at the Symposium for Student Innovation, Research, and Creative Activities
 
@@ -57,11 +56,11 @@ Summer is a great time for undergrads to start their research.
 - Presenters: Josh Boyd, Florian Morvais, Mohit Mathew, and Evan Krell
 - And others who regularly attend iCORE events: José A. Pilartes-Congo, Pratikshya Regmi, and Becca Davis (who won in grad oral presentation!)
 
-![](PHOTO)
+![Josh](../img/josh_ssrs.jpg)
 
-![](PHOTO)
+![Prati](../img/prati_ssrs.jpg)
 
-![](PHOTO)
+![Jose and Evan](../img/jose_evan_ssrs.jpg)
 
 (iCORE is weird because it is sometimes ambiguous whether or not you are a member. Usually a member is someone who has Dr. King on their committee or oversees their research in some way. But, for example, I listed Florian as a member since he goes to most iCORE meetings. I guess at some point you are around here so often that you are a member.)
 
