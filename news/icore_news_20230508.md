@@ -25,12 +25,18 @@ Thanks to the iCORE newsletter, there was a strong iCORE & GSCS presence at the 
 - We need to update the iCORE website.
 - We need a protocol for documenting finished projects (or project milestones).
 
+## News
 
+### iCORE member Evan Krell is helping to organize the AMS 2024 AI Short Course
 
-
-
-
-
+- The [American Meteorological Society (AMS)](https://www.ametsoc.org/) Annual Meeting has short courses on the weekend before the main conferences.
+- Previous instructors include iCORE alumni [Hamid Kamangir](https://scholar.google.com/citations?user=YLYJGQ8AAAAJ&hl=en).
+- For the 104th Annual Meeting (January 2024), Evan Krell and Dr. Kara Lamb are organizing the course. 
+- The course will have beginner and intermediate tracks. The latter will likely have a strong focus on model evaluation and explainable AI. 
+- Materials from previous AMS AI short courses:
+  - [2019](https://github.com/djgagne/ams-ml-python-course)
+  - [2020](https://github.com/alburke/ams-2020-ml-python-course)
+  - [2021](https://github.com/cmac994/ams-2021-ml-python-course-supervised-learning)
 
 ## Get involved
 
