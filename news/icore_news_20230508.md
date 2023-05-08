@@ -10,7 +10,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
-![SACNAS Pizza Social](sacnas_pizza_2023.jpeg)
+![SACNAS Pizza Social](../img/sacnas_pizza_2023.jpeg)
 
 Thanks to the iCORE newsletter, there was a strong iCORE & GSCS presence at the [SACNAS Pizza Social](https://github.com/ekrell/icore_website/blob/main/news/icore_news_20230426.md). 
 
