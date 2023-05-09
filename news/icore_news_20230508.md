@@ -27,6 +27,18 @@ Thanks to the iCORE newsletter, there was a strong iCORE & GSCS presence at the 
 
 ## News
 
+### iCORE Alumni Alexis Guijarro mentored a team for the Mexican Robotics Tournament 2023
+
+Alexis Guijarro has mentored his team SkyForce at the Mexican Robotics Tournament 2023 which took place in Xalapa, Mexico. As part of the autonomous drone challenges, SkyForce competed with other teams to complete tests such as obstacle avoidance, moving through loops, navigation by waypoints, autonomous landing, and 3D scanning. At the end of this event, Alexis' team ended in 6th place and he believes that current team members are on track for better results next year. Alongside these challenges, other categories were present: Unmanned Ground Vehicles for disasters, Autonomous cars, LEGO® and Home Robots.
+
+**We love to see iCORE alumni sharing their great work with us!**
+
+![Alexis and the team](../img/alexis_1.jpg)
+
+![Alexis and the team](../img/alexis_2.jpg)
+
+![Deploying roboty](../img/alexis_3.png)
+
 ### iCORE member Evan Krell is helping to organize the AMS 2024 AI Short Course
 
 - The [American Meteorological Society (AMS)](https://www.ametsoc.org/) Annual Meeting has short courses on the weekend before the main conferences.
