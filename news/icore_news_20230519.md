@@ -18,9 +18,15 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 
 
+
 ### 2023 UF + NVIDIA Hackathon
 
-
+- Dr. Philippe Tissot and Evan Krell are participating in a [hackathon hosted by University of Florida (UF) and NVIDIA](https://news.it.ufl.edu/research/2023-ufnvidia-hackathon/).
+- We are working remotely with a team of NOAA scientists to develop AI models for detecting when a water level reading is bad data.
+- The focus of the hackathon is to work with mentors from NVIDIA to learn how to accelerate code and take advantage of HPC GPU resources.
+- Evan's role is to adapt their existing model training and evaluation code and make it more suitable for running a very large number of jobs.
+- Right now, we are learning how to use [NVIDIA Nsight Systems](https://developer.nvidia.com/nsight-systems) for GPU code profiling.
+- We are also learning about strategies to store our large CSV data in a way that supports efficient loading on GPUs. 
 
 ### New Preprint Available from Evan Krell
 
@@ -33,7 +39,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 - Marina Vicens-Miquel will be doing research at University of Valencia in Spain as part of an AI2ES effort to expand international collaboration.
 - Evan Krell will be a visiting scholar at the [Cooperative Institute for Research in the Atmosphere (CIRA)](https://www.cira.colostate.edu/), working with Dr. Imme Ebert-Uphoff and Dr. Antonios Mamalakis.
-- Hamid Kamangir has already started his internship with Microsoft where is developing AI models. 
+- Hamid Kamangir has already started his internship with Microsoft Research (MSR) where is developing AI models as a Research Scientist intern.
 
 ## Get involved
 
