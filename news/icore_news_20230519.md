@@ -20,6 +20,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 - Last Thursday, iCORE and friends of iCORE enjoyed an evening at the beach.
 - The theme was build-your-own sandwich from a variety of meats, cheeses, and condiments to place within slices of bread from JB's German Bakery. 
+- While condiment quality was high, Evan was bullied for forgetting to bring the mayo. 
 - [photo album](https://photos.app.goo.gl/C5rXijBnjcgnwcao9)
 
 ![Dr. King](../img/beach_2.jpg)
@@ -52,13 +53,13 @@ Last semester, playing Mario Kart was a familiar sight in iCORE. Evan would brin
 As the only one with prior experience playing the game, Evan more or less always dominated the competition. Mahmoud, in some misguided notion that will be helpful, likes to tell people how _gangster_ Evan is. 
 In this case, _gangster_ means that Evan can catch big fish, kayak for quite some time, and has some skill in Mario Kart. (Evan hopes that Wen doesn't think he is part of a triad).
 
-But a key detail is that Mahmoud has _only_ seen Evan play Mario Kart against complete beginers who can barely stay on course in Moo Moo Meadows. 
+But a key detail is that Mahmoud has _only_ seen Evan play Mario Kart against complete beginners who can barely stay on course in Moo Moo Meadows. 
 Word began to spread about Evan's Mario Kart expertise based on minimal evidence. In the days leading up to the tournament, 
 the word around NRC was that Evan was the one to beat. It didn't help that Son Nguyen was telling everyone that Evan is a Mario Kart _legend_.
 
 This put Evan in a tricky situation. He was expected to be at least competitive in the upcoming tournament.
 Evan may be a _legend_, but in this case more properly called a _myth_. 
-So, he had no choice but to spend each evening for the two weeks preceeding May 12th in [serious training](https://www.youtube.com/watch?v=iE9ZF2eA-Fc).
+So, he had no choice but to spend each evening for the two weeks preceding May 12th in [serious training](https://www.youtube.com/watch?v=iE9ZF2eA-Fc).
 
 As for the results: Evan Krell placed 3rd in the CBI Mario Kart tournament, barely placing iCORE on the podium. 
 However, it is worth noting that the true legend, Rick Smith, was not among those victors having slipped into fourth place in the final race.
