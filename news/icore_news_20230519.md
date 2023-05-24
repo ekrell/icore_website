@@ -27,6 +27,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 - Evan's role is to adapt their existing model training and evaluation code and make it more suitable for running a very large number of jobs.
 - Right now, we are learning how to use [NVIDIA Nsight Systems](https://developer.nvidia.com/nsight-systems) for GPU code profiling.
 - We are also learning about strategies to store our large CSV data in a way that supports efficient loading on GPUs. 
+- The code is under active development, but is [open source and available](https://github.com/NOAA-CO-OPS/wlai-uf-hackathon-2023).
 
 ### New Preprint Available from Evan Krell
 
@@ -34,6 +35,31 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 - We have finally submitted the FogNet XAI paper!
 - There is a preprint available at [ESS Open Archive](https://essopenarchive.org/doi/full/10.22541/essoar.168394745.56383253/v1)
+
+### iCORE On the Podium in the Conrad Blucher Institute's (CBI) Mario Kart Tournament
+
+On May 12th, CBI hosted a Mario Kart tournament. It is well-known that the institute's directory, Rick Smith, is _very good_ at this game. 
+But, was there within iCORE a challenger to the position of CBI's Mario Kart champ?
+
+![Evan Krell about to put Son Nguyen in his place](../img/cbi-mario-kart-tourney-1.jpg)
+
+Last semester, playing Mario Kart was a familiar sight in iCORE. Evan would bring his switch to play again Mahmoud, Wen, and whoever we could get to come over from the Mantis Lab. 
+As the only one with prior experience playing the game, Evan more or less always dominated the competition. Mahmoud, in some misguided notion that will be helpful, likes to tell people how _gangster_ Evan is. 
+In this case, _gangster_ means that Evan can catch big fish, kayak for quite some time, and has some skill in Mario Kart. 
+
+But a key detail is that Mahmoud has _only_ seen Evan play Mario Kart against complete beginers who can barely stay on course in Moo Moo Meadows. 
+Word began to spread about Evan's Mario Kart expertise based on minimal evidence. In the days leading up to the tournament, 
+the word around NRC was that Evan was the one to beat. It didn't help that Son Nguyen was telling everyone that Evan is a Mario Kart _legend_.
+
+This put Evan in a tricky situation. He was expected to be at least competitive in the upcoming tournament.
+Evan may be a _legend_, but in this case more properly called a _myth_. 
+So, he had no choice but to spend each evening for the two weeks preceeding May 12th in [serious training](https://www.youtube.com/watch?v=iE9ZF2eA-Fc).
+
+As for the results: Evan Krell placed 3rd in the CBI Mario Kart tournament, barely placing iCORE on the podium. 
+However, it is worth noting that the true legend, Rick Smith, was not among those victors having slipped into fourth place in the final race.
+
+![Evan Krell takes the 3rd place prize](../img/cbi-mario-kart-tourney-2.jpg)
+
 
 ## Summer Plans
 
