@@ -1,4 +1,4 @@
-# iCORE Newsletter – 2023/05/08
+# iCORE Newsletter – 2023/05/19
 
 ![logo](../img/logo_plain_sm.jpg)
 
@@ -16,8 +16,13 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ### iCORE Beach Day
 
+![iCORE at the beach](../img/beach_1.jpg)
 
+- Last Thursday, iCORE and friends of iCORE enjoyed an evening at the beach.
+- The theme was build-your-own sandwich from a variety of meats, cheeses, and condiments to place within slices of bread from JB's German Bakery. 
+- [photo album](https://photos.app.goo.gl/C5rXijBnjcgnwcao9)
 
+![Dr. King](../img/beach_2.jpg)
 
 ### 2023 UF + NVIDIA Hackathon
 
@@ -45,7 +50,7 @@ But, was there within iCORE a challenger to the position of CBI's Mario Kart cha
 
 Last semester, playing Mario Kart was a familiar sight in iCORE. Evan would bring his switch to play again Mahmoud, Wen, and whoever we could get to come over from the Mantis Lab. 
 As the only one with prior experience playing the game, Evan more or less always dominated the competition. Mahmoud, in some misguided notion that will be helpful, likes to tell people how _gangster_ Evan is. 
-In this case, _gangster_ means that Evan can catch big fish, kayak for quite some time, and has some skill in Mario Kart. 
+In this case, _gangster_ means that Evan can catch big fish, kayak for quite some time, and has some skill in Mario Kart. (Evan hopes that Wen doesn't think he is part of a triad).
 
 But a key detail is that Mahmoud has _only_ seen Evan play Mario Kart against complete beginers who can barely stay on course in Moo Moo Meadows. 
 Word began to spread about Evan's Mario Kart expertise based on minimal evidence. In the days leading up to the tournament, 
