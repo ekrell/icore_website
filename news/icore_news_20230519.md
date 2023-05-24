@@ -50,7 +50,7 @@ But, was there within iCORE a challenger to the position of CBI's Mario Kart cha
 ![Evan Krell about to put Son Nguyen in his place](../img/cbi-mario-kart-tourney-1.jpg)
 
 Last semester, playing Mario Kart was a familiar sight in iCORE. Evan would bring his switch to play again Mahmoud, Wen, and whoever we could get to come over from the Mantis Lab. 
-As the only one with prior experience playing the game, Evan more or less always dominated the competition. Mahmoud, in some misguided notion that will be helpful, likes to tell people how _gangster_ Evan is. 
+As the only one with prior experience playing the game, Evan more or less always dominated the competition. Mahmoud, in some misguided notion that it will be helpful, likes to tell people how _gangster_ Evan is. 
 In this case, _gangster_ means that Evan can catch big fish, kayak for quite some time, and has some skill in Mario Kart. (Evan hopes that Wen doesn't think he is part of a triad).
 
 But a key detail is that Mahmoud has _only_ seen Evan play Mario Kart against complete beginners who can barely stay on course in Moo Moo Meadows. 
