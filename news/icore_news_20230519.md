@@ -14,7 +14,8 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ![Mahmoud driving a tractor](../img/mahmoud_farm_2.jpg)
 
-- Mahmoud Eldefrawy conducts research with AgriLife, typically related to computer vision and robotics. 
+- Mahmoud Eldefrawy conducts research with [AgriLife](https://agrilifeextension.tamu.edu/), typically related to computer vision and robotics. 
+- His specialty is using deep learning to enhance the quality of photogrammetry ([paper](https://www.mdpi.com/2072-4292/14/13/3199)).
 - One of his projects involved photogrammetry to model peanuts to automatically grade their quality.
 - But last week, he worked as a farmer planting peanuts in Sinton, TX. 
 - Below, you can see some of weather conditions that accompanied the planting.
@@ -71,7 +72,7 @@ Evan may be a _legend_, but in this case more properly called a _myth_.
 So, he had no choice but to spend each evening for the two weeks preceding May 12th in [serious training](https://www.youtube.com/watch?v=iE9ZF2eA-Fc).
 
 As for the results: Evan Krell placed 3rd in the CBI Mario Kart tournament, barely placing iCORE on the podium. 
-However, it is worth noting that the true legend, Rick Smith, was not among those victors having slipped into fourth place in the final race.
+However, it is worth noting that the true legend, Rick Smith, was not among those victors: he slipped into fourth place in the final race.
 
 ![Evan Krell takes the 3rd place prize](../img/cbi-mario-kart-tourney-2.jpg)
 
