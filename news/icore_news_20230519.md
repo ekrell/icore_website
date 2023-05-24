@@ -10,7 +10,16 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
+![Mahmoud driving a tractor](../img/mahmoud_farm_3.jpg)
 
+![Mahmoud driving a tractor](../img/mahmoud_farm_2.jpg)
+
+- Mahmoud Eldefrawy conducts research with AgriLife, typically related to computer vision and robotics. 
+- One of his projects involved photogrammetry to model peanuts to automatically grade their quality.
+- But last week, he worked as a farmer planting peanuts in Sinton, TX. 
+- Below, you can see some of weather conditions that accompanied the planting.
+
+![Mahmoud driving a tractor](../img/mahmoud_farm_1.jpg)
 
 ## Recent Events
 
