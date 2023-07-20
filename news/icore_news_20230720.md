@@ -79,7 +79,7 @@ We have recently had 4 proposal defenses from students that are either part of i
 
 #### Carly Stanton (July 14)
 
-[Carly Stanton](https://www.linkedin.com/in/carly-stanton-gisp-8363b252?original_referer=https%3A%2F%2Fwww.google.com%2F) is very much a member of iCORE, being a master's student under Dr. King. She successfuly defended a master's thesis in Computer Science. 
+[Carly Stanton](https://www.linkedin.com/in/carly-stanton-gisp-8363b252?original_referer=https%3A%2F%2Fwww.google.com%2F) is very much a member of iCORE, being a master's student under Dr. King. She successfuly defended a master's thesis in Computer Science. She doesn't attend enough of iCORE's fun events, but to be fair she has a real job: GIS Consultant at FACTOR, INC. 
 
 ![Carly's defense](../img/carly_defense.jpeg)
 
