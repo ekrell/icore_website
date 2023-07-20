@@ -12,8 +12,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ![Evan and Mahmoud at AgriLife, among the cotton field](../img/P7190986_small.jpg)
 
-
-
+Evan Krell with iCORE's #1 farmer Mahmoud Eldefrawy. We are among the cotton fields at [AgriLife](https://agrilifeextension.tamu.edu/). Mahmoud's research involves deep learning and computer vision for estimating crop yield.  
 
 ## iCORE Meetings
 
@@ -25,11 +24,10 @@ If you have any news or resources you would like to share, send an email to [Eva
 - The purpose of doing so was to enjoy drinks at Dr. King's expense.
 - We had general updates and accidently met up with Waylon Collins from the National Weather Service.
 - Dr. King gave us a lesson in stone-age gaming history by talking about the ASCII-based network games he used to play.
-- We discussed plans for a workshop on making scientific posters and graphics (in collaboration with the local SACNAS chapter).
 
 ### Next meeting: August 3, noon-1:30pm
 
-- Dr. King will be out. So we'll have an **iCORE Tea Party**!
+- Dr. King will be out. So we'll have tea.
 - There will tea sandwiches, snacks, etc.
 - More details soon. 
 
@@ -37,11 +35,42 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 #### Evan's Visit to AgriLife
 
+Yesterday (7/19), Evan Krell was given a tour of AgriLife for two purposes: (1) to get some photos of where Mahmoud does his research for the iCORE newsletter, and (2) for a secret mission related to the cotton that is quite likely to get Evan in trouble. Evan is going against Wen Zhong's expert advise to do something stupid. [A full album of AgriLife photos can be found here](https://photos.app.goo.gl/iUD9oxAUPnUG7gns6). 
 
+For Mahmoud's research, it is very important to obtain accurate ground truth data regarding the yield of the cotton harvest. So, tending to the crops at AgriLife and keeping the cotton free of weeds has become nearly his full-time occupation. 
+
+![The cotton field](../img/P7190967_small.jpg)
+
+Here are some rows of cotton. For a while, Mahmoud was working on a vehicle that would navigate between the rows to obtain imagery to create point clouds. 
+
+![The cotton flower](../img/P7190977_small.jpg)
+
+In its earliest stage, the cotton flower is pink. Soon it will turn yellow. 
+
+![The cotton ball](../img/P7190970_small.jpg)
+
+The cotton ball is in fact the plant's fruit since it surrounds the seed. 
+
+![Drying ovens](../img/P7191003_small.jpg)  
+
+Ovens are used to dry out the cotton by maintaining a relatively low heat for many days. 
+
+![Picking a weed](../img/P7190981_small.jpg)
+
+My contribution to AgriLife's cotton-growing program: I picked a weed. 
+
+![Lei & Mahmoud](../img/P7190960_small.jpg)
+
+Lei Zhao and Mahmoud: computer scientists toiling away under the summer sun. 
 
 #### Recent Defenses 
 
 **Wen Zhang**
+
+
+
+
+
 
 
 **Carly Stanton**
