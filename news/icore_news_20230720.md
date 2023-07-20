@@ -10,6 +10,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
+![Evan and Mahmoud at AgriLife, among the cotton field](../img/P7190986_small.jpg)
 
 
 
