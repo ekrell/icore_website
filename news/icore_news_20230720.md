@@ -34,9 +34,10 @@ Evan Krell with iCORE's #1 farmer Mahmoud Eldefrawy. We are among the cotton fie
 
 ### Evan's Visit to AgriLife
 
-Yesterday (7/19), Evan Krell was given a tour of AgriLife for two purposes: (1) to get some photos of where Mahmoud does his research for the iCORE newsletter, and (2) for a secret mission related to the cotton that is quite likely to get Evan in trouble. Evan is going against Wen Zhong's expert advise to do something stupid. [A full album of AgriLife photos can be found here](https://photos.app.goo.gl/iUD9oxAUPnUG7gns6). 
-
+Yesterday (7/19), Evan Krell was given a tour of AgriLife for two purposes: (1) to get some photos of where Mahmoud does his research for the iCORE newsletter, and (2) for a secret mission related to the cotton that Wen warned Evan against doing. But he is a stupid boy and remains undeterred. 
 For Mahmoud's research, it is very important to obtain accurate ground truth data regarding the yield of the cotton harvest. So, tending to the crops at AgriLife and keeping the cotton free of weeds has become nearly his full-time occupation. 
+
+[A full album of AgriLife photos can be found here](https://photos.app.goo.gl/iUD9oxAUPnUG7gns6). 
 
 ![The cotton field](../img/P7190967_small.jpg)
 
