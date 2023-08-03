@@ -14,7 +14,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 [![Oso Bay Wetlands Preserve, spider](../img/oso_july2023_2.png)](https://youtu.be/IBhKWTvV1qs)
 
-This spider, busily ensaring its prey, was spotted at the [Oso Bay Wetlands Preserve](https://www.cctexas.com/parks/services/general-government/oso-bay-wetlands-preserve-learning-center) on July 29. Click on the spider photo above to navigate to a video if the web-spinning action. Perhaps Bria Marty can provide an identification?
+This spider, busily ensaring its prey, was spotted at the [Oso Bay Wetlands Preserve](https://www.cctexas.com/parks/services/general-government/oso-bay-wetlands-preserve-learning-center) on July 29. Click on the spider photo above to navigate to a video of the web-spinning action. Perhaps Bria Marty can provide an identification?
 
 ### Last meeting: August 3, noon-1:30pm
 
