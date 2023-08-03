@@ -1,6 +1,5 @@
 # iCORE Newsletter – 2023/08/03
 
-
 ![logo](../img/logo_plain_sm.jpg)
 
 The iCORE newsletter highlights events and information related to the [innovation in COmputing REsearch (iCORE) lab](https://icore.tamucc.edu/),
@@ -11,8 +10,37 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
-![Oso Bay Wetlands Preserve, view of the bay]()
+![Oso Bay Wetlands Preserve, view of the bay](../img/oso_july2023_1.png)
 
-[![Oso Bay Wetlands Preserve, spider](https://photos.google.com/share/AF1QipPe2zI7acjN1vzGNl1BVPcSkQvNPnq1gFFOJXJI5fPzkvFYgUYaxU7ixpL-zTARvg/photo/AF1QipMuSgZoGv7L_MJaewElvgc0bVmpD8vVRldxluNe?key=aExiNWJfYXo3alNVa2czLUFzMUtUX21jUVl2ZU1R)](https://youtu.be/IBhKWTvV1qs)
+[![Oso Bay Wetlands Preserve, spider](../img/oso_july2023_2.png)](https://youtu.be/IBhKWTvV1qs)
+
+This spider, busily ensaring its prey, was spotted at the [Oso Bay Wetlands Preserve](https://www.cctexas.com/parks/services/general-government/oso-bay-wetlands-preserve-learning-center) on July 29. Click on the spider photo above to navigate to a video if the web-spinning action. Perhaps Bria Marty can provide an identification?
+
+### Last meeting: August 3, noon-1:30pm
+
+- Dr. King was away... so we replaced our weekly meeting a small tea party.
+- Evan brought several mini tea sandwiches (cucumber, turkey, deviled ham, etc).
+- Mahmoud brought middle eastern sweets: baklava & date-filled cookies.
+- The tea selections were [Ahmad Kalami Assam](https://www.sadaf.com/products/ahmad-kalami-assam-tea-44-7804?variant=39729262067918&currency=USD&utm_source=google&utm_medium=organic&utm_campaign=shopping&utm_content=Ahmad+Kalami+Assam+Tea+16+oz.&gclid=Cj0KCQjwoK2mBhDzARIsADGbjeoqCh3sgGWz8xyoJKEh7y8CnG2s2LtyKOut7HnKMZWX6My50kiVoOcaAsoAEALw_wcB) and [Sadaf Cardamom Tea](https://www.sadaf.com/collections/loose-leaf-tea/products/sadaf-special-blend-cardamom-tea-44-6154).
+- Don't worry, Dr. King: we cleaned up the conference room...
+
+![iCORE tea party spread](../img/icore_tea.png)
+
+### Next meeting: August 17, noon-1:30pm
+
+- No plans yet
+
+## News
+
+### Abhishek Phadke & Josh Boyd published an editorial on autonomous aircraft systems
+
+**[Navigating the skies: examining the FAA’s remote identification rule for unmanned aircraft systems](https://cdnsciencepub.com/doi/10.1139/dsa-2023-0029)**
+
+**Abstract:**  As technology and innovations in unmanned aerial vehicles progress, so does the need for regulations in place to create safe and controlled flying scenarios. The Federal Aviation Administration (FAA) is a governing body under the United States Department of Transportation that is responsible for a wide range of regulatory activities related to the United States airspace. In a recently published final rule, the FAA addresses several concerns such as the need for a system to identify all aircrafts flying in national airspace, as well as the implementation of a separate system from the prevalent Automatic Dependent Surveillance–Broadcast system to prevent interference with manned aircrafts. Their solution to these concerns is the deployment of remote identification (RID) on all unmanned aircraft systems (UAS) flying under its implied jurisdiction. While US governing agencies retain the use of the word UAS for now, the International Civil Aviation Organization terminology is remotely piloted aircraft systems. The FAA describes the RID implementation as a “Digital license plate” for all UAS flying in the United States airspace. They outline additional policies including several options for compliance, operating rules, and design and production guidelines for manufacturers. As the September 2023 deadline for compliance draws near, this article highlights possible deployment applications and challenges.
+
+### Recent Events
+
+
+
 
 
