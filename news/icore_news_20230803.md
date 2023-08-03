@@ -67,7 +67,7 @@ Above, Abhishek at the CSCE conference with TAMUCC computer science faculty Dr. 
 ![Cotton field at AgriLife](../img/cotton_2.png)
 
 - iCORE's number one farmer Mahmoud is still hard at work, tending to the cotton fields.
-- The crops seem to have progressed substantially since the [previous newsletter]().
+- The crops seem to have progressed substantially since the [previous newsletter](https://github.com/ekrell/icore_website/blob/main/news/icore_news_20230720.md).
 - Soon they will be harvested and dried, and Mahmoud will have ground truth data for training crop yield prediction models.
 
 ## Get involved
