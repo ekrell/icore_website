@@ -21,7 +21,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 After going over our usual updates, we starting planning some events for this semester's events. Ideas include:
 
 - Version 2 of Mahmoud Eldefrawy's Intro to ML workshop (new & improved)
-- A lecture of geospatial algorithms from Abhishek Phadke
+- A lecture on geospatial algorithms from Abhishek Phadke
 - Various technical trainings from Josh Boyd's software team at LoneStar UAS
 - Inkscape for research graphics from Evan Krell
 - Something from Waylon Collins (National Weather Service)
@@ -30,17 +30,48 @@ After going over our usual updates, we starting planning some events for this se
 
 - Meetings are now Friday afternoons (tragic)
 
+## Recent Events
+
+### AgriLife Sinton Adventure (08/16)
+
+Last week, iCORE's Mahmoud Eldefrawy (a.k.a. cotton boy) did some work with AgriLife. 
+That is the whole news: Mahmoud worked. For some time, Wen and Evan have been concerned as to whether or not work was in fact being done. From what I can see, a typical Mahmoud day is as follows. The morning is spent at AgriLife chatting with the guys, followed by a substantial buffet lunch at either Southern Charm or China Bear. In the afternoon, Mahmoud shows up at iCORE with his usual question "have you had your coffee". Even though he has, in fact, had his coffee, Evan joins in for a quick trip to Coffee Waves. During the short drive, they jam out to [Taiwanese mountain love songs](https://youtu.be/3wnmnL0G0ao) or [خلاص خلاص خلاويص خلصنا](https://soundcloud.com/ayman-no3man/jgpuxobwlhcr?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing). After a half-hour or so at iCORE, Mahmoud heads back home. There, Evan and Wen have no idea what he is up to (certainly not cooking or cleaning). But the big question is: does Mahmoud work? So, the big news this week is *photographic evidence of Mahmoud doing something out in the field*.
+
+![Mahmoud and agrilife](../img/agrilife_sinton_3.jpg)
+
+Last Wednesday, Mahmoud was tasked with a trip to Sinton to collect sensors that had been deployed underground. The location of the sensors is known by their guide, Lei Zhao, who was seen catching some shut-eye on the way to the field. 
+
+![Sleepy boy Lei](../img/agrilife_sinton_1.jpg)
+
+On reaching the site, they quickly discovered that the ground was very dry due to a shortage of water. This made digging up the sensors quite a challenge. Not to be deterred, Mahmoud managed to extract enough earth to be able to retrieve to buried sensors. So to those questioning whether or not Mahmoud works, they may cast aside their doubts: **Mahmoud dug a hole.** 
+
+![Mahmoud's hole](../img/agrilife_sinton_2.jpg)
+
+Always ready to share the credit of his deeds, Mahmoud photographed AgriLife field crew member Colton with the uncovered sensor. 
+
+![Colton with sensor](../img/agrilife_sinton_4.jpg)
+
+But the adventure does not end there! While out in the field, a storm quickly developed and chased our heroes out of Sinton.
+They had to endure heavy rain, flashes of lightning, etc. This may have been a blessing in disguise. The South Texas summer heat was beginning to take its toll and its not clear just how much longer Cotton Boy could have managed. Was his life saved by the storm? It remains a mystery. 
+ 
+### SCOTT: The Influence of Feature Grouping Schemes on Explainable AI for Geoscience AI Models (08/18)
+
+Last Friday, Evan Krell presented about his current research related to explainable AI for Conrad Blucher Institute (CBI). 
+The SCOTT series are short presentations for CBI members to share knowledge within the group. 
+
+[Slides are available here](https://ekrell.github.io/doc/Slides_SCOTT_EvanKrell_XAIFeatureGroups.pdf)
+
+![Evan's SCOTT](../img/evan_scott.jpg)
 
 
+## Get involved
 
-https://ekrell.github.io/doc/Slides_SCOTT_EvanKrell_XAIFeatureGroups.pdf
+As always, we encourage all iCORE members and iCORE-adjacent persons to get involved and propose workshop/lecture/training ideas that they would like to present.
 
+## iCORE resources
 
-
-
-theking.png
-evan_scott.jpg
-agrilife_sinton_4.jpg
-agrilife_sinton_1.jpg
-agrilife_sinton_2.jpg
-agrilife_sinton_3.jpg
+- location: NRC 2100 Suite (https://goo.gl/maps/Htbp1YMASAmYqkFu9)
+- website: http://icore.tamucc.edu/
+- twitter: https://twitter.com/ICORE_TAMUCC
+- youtube: https://www.youtube.com/channel/UCvsK07PvushTI2BA2BhN-DQ
+- discord: https://discord.gg/3eeMN229cr
