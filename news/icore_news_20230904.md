@@ -25,7 +25,7 @@ I hope you are all enjoying the three-day weekend!
 - Back-to-school iCORE meeting.
 - The main purpose is to schedule Fall 2023 iCORE events.
 - In addition, to see where everyone is at in their research.
-- And perhaps to welcome any new iCORE members (or interesting..)?
+- And perhaps to welcome any new iCORE members?
 - Please come and bring anyone who might be interested in learning about how they can get involved with CS research.
 - Or, how they can better incorporate CS in their existing research.
 
