@@ -14,7 +14,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 I hope you are all enjoying the three-day weekend!
 
-(I can't believe I am writing a newsletter on labor day.)
+(I can't believe I am writing a newsletter on Labor Day.)
 
 ## iCORE Meetings
 
@@ -53,7 +53,7 @@ I hope you are all enjoying the three-day weekend!
 ### Abhishek Phadke Published a Journal Article
 
 - Let's congratulate [Abhishek](https://sites.google.com/view/abhishek-phadke) on his new journal publication!
-- Abhishek is a member of iCORE and the [Geospatial Optimization & Analytics Lab (GOAL)](https://sites.google.com/view/abhishek-phadke).
+- Abhishek is a member of iCORE and the [Geospatial Optimization & Analytics Lab (GOAL)](https://antoniomedrano.github.io/GOAL.html).
 - Recently, he brought delicious corn for Evan and Mahmoud... but Evan ate it all, thinking Mahmoud had a separate portion.
 - But more importantly, he is doing very interesting work in autonomous aerial vehicle systems.
 - **Title:** [Designing UAV Swarm Experiments: A Simulator Selection and Experiment Design Process](https://www.mdpi.com/1424-8220/23/17/7359)
@@ -67,11 +67,11 @@ I hope you are all enjoying the three-day weekend!
 
 ![MSGSO Flyer](../img/msgso.jpg)
 
-- The [Marine Science Graduate Student Organization (MSGSO)](https://msgsoresearchforum.wixsite.com/msgsosymposium) is hosting a research forum at TAMUCC
-- This is open to all undergraduate & graduate students in the College of Science & College of Engineering
+- The [Marine Science Graduate Student Organization (MSGSO)](https://msgsoresearchforum.wixsite.com/msgsosymposium) is hosting a research forum at TAMUCC.
+- This is open to all undergraduate & graduate students in the College of Science & College of Engineering.
 - To clarify, this is not limited to marine science topics. 
-- **When:** Friday, October 20th 2023,  08:00 am - 05:00 pm
-- [**Submit your abstract by Oct. 2.**](https://msgsoresearchforum.wixsite.com/msgsosymposium)
+- **When:** Friday, October 20th 2023,  08:00 am - 05:00 pm.
+- [**Submit your abstract by Oct. 2.**](https://msgsoresearchforum.wixsite.com/msgsosymposium).
 - Please share broadly.
 
 ## Snack of the Week
