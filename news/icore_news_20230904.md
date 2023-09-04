@@ -37,7 +37,7 @@ I hope you are all enjoying the three-day weekend!
   - Something you **want to present**.
   - Something you **want to learn about**.
 - At the very **minimum**, we want to populate the below table with events.
-- If there is interest in even more events, we may have something 
+- If there is interest in even more events, we may schedule additional meeting times. 
 
 | **Date** | **Topic**          |
 |----------|--------------------|
