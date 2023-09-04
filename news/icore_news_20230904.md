@@ -76,11 +76,11 @@ I hope you are all enjoying the three-day weekend!
 
 ## Snack of the Week
 
-- There is a downtown [Art Walk](https://godowntowncc.com/artwalk/) on the first Friday of every month
-- iCORE members met up with our Life Science friends
+- There is a downtown [Art Walk](https://godowntowncc.com/artwalk/) on the first Friday of every month.
+- iCORE members met up with our Life Science & AgriLife friends.
 - We enjoyed food truck snacks:
-  - Pasta from [Roamin' Italy](https://www.facebook.com/RoaminItaly/)
-  - Mango limeade from [Lemon Shakers](https://www.facebook.com/people/Lemon-Shakers/100027677786522/)
+  - Pasta from [Roamin' Italy](https://www.facebook.com/RoaminItaly/).
+  - Mango limeade from [Lemon Shakers](https://www.facebook.com/people/Lemon-Shakers/100027677786522/).
 
 ![Food from First Friday](../img/first_friday.png)
 
