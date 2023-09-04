@@ -10,9 +10,11 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
+[Mustang Island Beach](../img/labor_day_beach.jpeg)
 
+I hope you are all enjoying the three-day weekend!
 
-
+(I can't believe I am writing a newsletter on labor day.)
 
 ## iCORE Meetings
 
@@ -71,6 +73,16 @@ If you have any news or resources you would like to share, send an email to [Eva
 - **When:** Friday, October 20th 2023,  08:00 am - 05:00 pm
 - [**Submit your abstract by Oct. 2.**](https://msgsoresearchforum.wixsite.com/msgsosymposium)
 - Please share broadly.
+
+## Snack of the Week
+
+- There is a downtown [Art Walk](https://godowntowncc.com/artwalk/) on the first Friday of every month
+- iCORE members met up with our Life Science friends
+- We enjoyed food truck snacks:
+  - Pasta from [Roamin' Italy](https://www.facebook.com/RoaminItaly/)
+  - Mango limeade from [Lemon Shakers](https://www.facebook.com/people/Lemon-Shakers/100027677786522/)
+
+![Food from First Friday](../img/first_friday.png)
 
 ## Get involved
 
