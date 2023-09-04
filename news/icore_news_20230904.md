@@ -10,7 +10,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
-[Mustang Island Beach](../img/labor_day_beach.jpeg)
+![Mustang Island Beach](../img/labor_day_beach.jpeg)
 
 I hope you are all enjoying the three-day weekend!
 
