@@ -98,11 +98,11 @@ Jason Nachamkin, Chuyen Nguyen, and others from the Naval Research Lab (NRL) - M
 
 ### Energy, Fire, and Changing Landscapes – Satellite Applications (September 21 - 22)
 
-![NCAR Mesa lab](../img/mesa.png)
+![NCAR Mesa lab](../img/mesa.jpg)
 
 The week after, I attended another conference. Since I was already in Boulder, we decided that I should at least check it out since I am interested in satellite data and have worked with NRL for predicting [pyrocumulonimbus](https://en.wikipedia.org/wiki/Cumulonimbus_flammagenitus) events based on NWP atmospheric data and satellite fire data. The [workshop](https://eap.wisc.edu/2023-conference-ncar/) took place at the NCAR Mesa lab: a notable architectural achievement by [Ieoh Ming Pei](https://en.wikipedia.org/wiki/I._M._Pei) and featured in the Woody Allen film [Sleeper](https://en.wikipedia.org/wiki/Sleeper_(1973_film)). The event turned out a little different than I expected: its purpose was to connect the energy companies with fire researchers so that they can incorporate better wildfire forecasts into their decision-making. These are all Western energy companies, and they face many challenges related to wildfires. A big issue is that the grid itself is responsible for a large number of fires. So, they rely on accurate predictions to determine when there is a risk of triggering a fire. In this case, they initiate a preventative power shutoff. This prevents triggering wildfires but comes at a great cost to the customers, especially those relying on electricity for medical equipment. So, the focus is on improved modeling capabilities. It was all very interesting to hear their perspectives. An important point was the need for higher-resolution satellite data. The polar-orbiting satellites (e.g. VIIRS) have the spatial resolution to analyze their utilities, but the temporal resolution is far too low. By the time the satellite passes over the area of interest, critical events have occurred. The geostationary instruments (e.g. MODIS) are fixed in place and thus have very high temporal resolution but the imagery is too coarse for their needs. [Recordings will be available here](https://eap.wisc.edu/2023-conference-ncar-speakers-and-sessions/). Below is a beautiful sunset taken from the MESA lab after the first day. 
 
-![Sunset from Mesa lab](../img/mesa2.png)
+![Sunset from Mesa lab](../img/mesa2.jpg)
 
 ### Hiking Mount Sanitas
 
