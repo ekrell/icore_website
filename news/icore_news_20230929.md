@@ -104,8 +104,11 @@ The week after, I attended another conference. Since I was already in Boulder, w
 
 ![Sunset from Mesa lab](../img/mesa2.jpg)
 
+### Shorts Adventure
+
 ### Hiking Mount Sanitas
 
-### Recommended Restaurants
+### Formosa Bakery
 
+### Ft. Collins Night Ride
 
