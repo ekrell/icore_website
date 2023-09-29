@@ -106,6 +106,8 @@ The week after, I attended another conference. Since I was already in Boulder, w
 
 ### Shorts Adventure
 
+Between conferences, my typical Boulder schedule was to go out exploring in the morning and spend the rest of my time working in my Residence Inn & Suites. I had no car, so I generally got around on foot. It is only an hour to get to the downtown area with the all the restaurants and shops. Eventually, that main street (pearl street) turns into neighborhood of very large houses nestled among the trees. Eventually the street terminates at a trailhead called The People's Crossing. There is a very large network of connected trails with nearby parks and creeks. This is the story of one such outing. 
+
 ### Hiking Mount Sanitas
 
 ### Formosa Bakery
