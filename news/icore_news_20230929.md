@@ -88,9 +88,15 @@ I am spending a month in Colorado for research. First, I spent a week in Boulder
 
 ## Evan's Colorado Research Adventure (Part One)
 
-### DoD conference
+### DoD Post Cloud Post-Processing and Verification Workshop (September 13th & 14th)
 
-### Fire conference
+![Satellite dishes at NCAR](../img/dod_cloud.jpg)
+
+Jason Nachamkin, Chuyen Nguyen, and others from the Naval Research Lab (NRL) - Monterey organized a DoD workshop that was held at the NCAR Foothills campus in Boulder, CO. My Colorado adventure began by attending this workshop along with Dr. King and Dr. Tissot. This was a small, 2-day workshop where all talks occurred in a single meeting room. There were many science talks. Most were very specific in dealing directly with cloud models and their evaluation. Others were more general, such as an XAI talk from [David John Gagne](https://staff.ucar.edu/users/dgagne) and my own talk on XAI challenges related to geospatial models. There were also panel discussions to facilitate interaction between the atmospheric modeling community and military decision-makers. Of major interest is avoiding [icing hazards during flight](https://www.weather.gov/source/zhu/ZHU_Training_Page/icing_stuff/icing/icing.htm). Very accurate forecasts are of critical interest to the military. 
+
+- Evan Krell's [presentation recording](https://www.youtube.com/watch?v=dHMcvaBCE5k&t=14650s) & [slides](https://cpaess.ucar.edu/sites/default/files/2023-dod-presentation/krell-dod-2023.pdf)
+
+### Fire confere
 
 
 
