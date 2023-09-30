@@ -100,17 +100,38 @@ Jason Nachamkin, Chuyen Nguyen, and others from the Naval Research Lab (NRL) - M
 
 ![NCAR Mesa lab](../img/mesa.jpg)
 
-The week after, I attended another conference. Since I was already in Boulder, we decided that I should at least check it out since I am interested in satellite data and have worked with NRL for predicting [pyrocumulonimbus](https://en.wikipedia.org/wiki/Cumulonimbus_flammagenitus) events based on NWP atmospheric data and satellite fire data. The [workshop](https://eap.wisc.edu/2023-conference-ncar/) took place at the NCAR Mesa lab: a notable architectural achievement by [Ieoh Ming Pei](https://en.wikipedia.org/wiki/I._M._Pei) and featured in the Woody Allen film [Sleeper](https://en.wikipedia.org/wiki/Sleeper_(1973_film)). The event turned out a little different than I expected: its purpose was to connect the energy companies with fire researchers so that they can incorporate better wildfire forecasts into their decision-making. These are all Western energy companies, and they face many challenges related to wildfires. A big issue is that the grid itself is responsible for a large number of fires. So, they rely on accurate predictions to determine when there is a risk of triggering a fire. In this case, they initiate a preventative power shutoff. This prevents triggering wildfires but comes at a great cost to the customers, especially those relying on electricity for medical equipment. So, the focus is on improved modeling capabilities. It was all very interesting to hear their perspectives. An important point was the need for higher-resolution satellite data. The polar-orbiting satellites (e.g. VIIRS) have the spatial resolution to analyze their utilities, but the temporal resolution is far too low. By the time the satellite passes over the area of interest, critical events have occurred. The geostationary instruments (e.g. MODIS) are fixed in place and thus have very high temporal resolution but the imagery is too coarse for their needs. [Recordings will be available here](https://eap.wisc.edu/2023-conference-ncar-speakers-and-sessions/). Below is a beautiful sunset taken from the MESA lab after the first day. 
+The week after, I attended another conference. Since I was already in Boulder, we decided that I should at least check it out since I am interested in satellite data and have worked with NRL for predicting [pyrocumulonimbus](https://en.wikipedia.org/wiki/Cumulonimbus_flammagenitus) events based on NWP atmospheric data and satellite fire data. The [workshop](https://eap.wisc.edu/2023-conference-ncar/) took place at the NCAR Mesa lab: a notable architectural achievement by [Ieoh Ming Pei](https://en.wikipedia.org/wiki/I._M._Pei) and featured in the Woody Allen film [Sleeper](https://en.wikipedia.org/wiki/Sleeper_(1973_film)). The event turned out a little different than I expected: its purpose was to connect the energy companies with fire researchers so that they could incorporate better wildfire forecasts into their decision-making. These are all Western energy companies, and they face many challenges related to wildfires. A big issue is that the grid itself is responsible for a large number of fires. So, they rely on accurate predictions to determine when there is a risk of triggering a fire. In this case, they initiate a preventative power shutoff. This prevents triggering wildfires but comes at a great cost to the customers, especially those relying on electricity for medical equipment. So, the focus is on improved modeling capabilities. It was all very interesting to hear their perspectives. An important point was the need for higher-resolution satellite data. The polar-orbiting satellites (e.g. VIIRS) have the spatial resolution to analyze their utilities, but the temporal resolution is far too low. By the time the satellite passes over the area of interest, critical events have occurred. The geostationary instruments (e.g. MODIS) are fixed in place and thus have very high temporal resolution but the imagery is too coarse for their needs. [Recordings will be available here](https://eap.wisc.edu/2023-conference-ncar-speakers-and-sessions/). Below is a beautiful sunset taken from the MESA lab after the first day. 
 
 ![Sunset from Mesa lab](../img/mesa2.jpg)
 
-### Shorts Adventure
-
-Between conferences, my typical Boulder schedule was to go out exploring in the morning and spend the rest of my time working in my Residence Inn & Suites. I had no car, so I generally got around on foot. It is only an hour to get to the downtown area with the all the restaurants and shops. Eventually, that main street (pearl street) turns into neighborhood of very large houses nestled among the trees. Eventually the street terminates at a trailhead called The People's Crossing. There is a very large network of connected trails with nearby parks and creeks. This is the story of one such outing. 
-
 ### Hiking Mount Sanitas
 
-### Formosa Bakery
+Boulder has very convenient access to outdoor activities. One morning, I set out early to explore the network of trails that begins at The People's Crossing trailhead. Since the trailhead is an hour away by foot, I used the BCycle app to rent one of the many e-bikes stationed around the city. One station is right by my hotel and another is at the trailhead. 
 
-### Ft. Collins Night Ride
+![Peoples' Crossing](../img/sanitas_1.jpg)
 
+The first segment is Red Rocks Trail. As the name suggests, the path is among red rocks. Elevation gain is minimal, but you are surrounded by beautiful mountainous terrain. 
+
+![Red rocks trail](../img/sanitas_2.jpg)
+
+![Among the mountains](../img/sanitas_3.jpg)
+
+Eventually, there is a fork where the hiker is directed to proceed along either the Sanitas Valley or Sanitas Mountain trails. Having done no investigation beforehand, I chose to follow the latter simply because mountain sounded like a better adventure than valley. 
+
+![Sanitas mountain trail](../img/sanitas_4.jpg)
+
+This trail is much more complex than Red Rocks. The path is often of quite irregular rocks and very often large steps are required to ascend from one step to the next. I would later find out that the description on AllTrails is in fact, *hard*. There were several portions of the path where it became so steep and the pato so obscure that I wasn't sure whether or not to proceed. I had to check Google Maps many times to be sure I had not strayed. A couple of challenging sections required both hands and feet to manage the ascent. 
+
+![Complex path](../img/sanitas_5.jpg)
+
+Nearing the summit, the views of Boulder below are quite stunning. I remembered to take a photo of myself using my camera's timer since I was recently scolded for rarely including myself in travel photos: "I could find that same picture on Google!". 
+
+![A view from the summit](../img/sanitas_6.jpg)
+
+![Me](../img/sanitas_7.jpg)
+
+Going down would have been much easier, but almost as soon as I reached the top, there was a loud peal of thunder followed by sudden rain. I was fortunate to have chosen to wear a quick-drying fishing shirt. I had to be very cautious on the descent because of the many slippery rocks. After a half-hour or so of making it down among the rocks, my path became a very easy fire-access road. 
+
+![Rain](../img/sanitas_8.jpg)
+
+![Fire road](../img/sanitas_9.jpg)
