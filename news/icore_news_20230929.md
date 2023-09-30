@@ -32,7 +32,7 @@ I am spending a month in Colorado for research. First, I spent a week in Boulder
 - I had just gotten out of a conference and was soon to travel from Boulder to Ft. Collins.
 - In the meantime, I was relaxing with some tea at [Ku Cha](https://www.kuchatea.com/).
 - While trying to enjoy my tea, I got a text from Dr. King that no one but me could start the Teams meeting.
-- As usual, I had to save the day since iCORE can't function 5 minutes without me.
+- As usual, I had to save the day...
 
 ### Next Meeting: October 6
 
