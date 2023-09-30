@@ -110,7 +110,7 @@ Boulder has very convenient access to outdoor activities. One morning, I set out
 
 ![Peoples' Crossing](../img/sanitas_1.jpg)
 
-The first segment is Red Rocks Trail. As the name suggests, the path is among red rocks. Elevation gain is minimal, but you are surrounded by beautiful mountainous terrain. 
+The first segment is the Red Rocks Trail. As the name suggests, the path is among red rocks. Elevation gain is minimal, but you are surrounded by beautiful mountainous terrain. 
 
 ![Red rocks trail](../img/sanitas_2.jpg)
 
@@ -135,3 +135,7 @@ Going down would have been much easier, but almost as soon as I reached the top,
 ![Rain](../img/sanitas_8.jpg)
 
 ![Fire road](../img/sanitas_9.jpg)
+
+As soon as I returned to the trailhead, I received an email asking to meet up with David John Gagne from NCAR Mesa lab in a couple of hours. I was a mud-covered mess, so I had to get home and clean up before taking an Uber to the lab. I had no time for lunch, so I grabbed a silver needles white tea from Ku Cha and drank it during my hour-long walk back home. After the meeting, I was starving and ordered this massive potato-filled dosa from Tiffins India Cafe. I have never had a dosa, but I enjoyed it very much.
+
+![Dosa](../img/sanitas_10.jpg)
