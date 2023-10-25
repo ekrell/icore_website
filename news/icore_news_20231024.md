@@ -88,6 +88,7 @@ Tami King works remotely, from Corpus Christi, for the Computer Science and Engi
 | Marina Vicens-Miquel | Dec. 15, 16:10 - 20:30 | Advancing Coastal Inundation Frequency Predictions with an AI-based Sub-seasonal to Multi-year Water Level Model in the Gulf of Mexico                                        | 
 | Evan Krell  | Dec. 15, 10:30 - 14:50 | Exploring the Influence of Correlated Features on Geoscience AI Models to Improve the Scientific Insights Gained From Using Explainable AI Techniques for Feature Attribution | 
 
+(Would it be improper to point out that I submitted an abstract to AGU because I wanted to eat cioppino and dim sum in SF?)
 
 ## Get involved
 
