@@ -10,8 +10,11 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
+![Sunset on Padre Island](../img/beachday_sunset.jpg)
 
+A beautiful sunset at the beach on Padre Island. It is mid-October and the water temperature is still very pleasant for a swim. 
 
+Welcome to another iCORE Newsletter. 
 
 ## iCORE Meetings
 
@@ -75,7 +78,28 @@ Tami King will present a lecture on unit testing. This refers to a software deve
 
 Tami King works remotely, from Corpus Christi, for the Computer Science and Engineering Department at Ohio State University. If you haven't figured it out yet, she is the wife of iCORE's own Dr. King and we are all in trouble if her talk is not well-attended. 
 
+## Upcoming Conferences
 
+### AGU Annual Meeting 2023 (San Francisco, CA)
+
+| **Speaker** | **When**               | **Topic**                                                                                                                                                                     |   |
+|-------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| Wen Zhong   | Dec. 12, 18:24 - 18:27 | The Impact of Potential Land Subsidence on a Future DEM Based on InSAR, Airborne LiDAR, and Deep Learning                                                                     |   |
+| Marina Vicens-Miquel | Dec. 15, 16:10 - 20:30 | Advancing Coastal Inundation Frequency Predictions with an AI-based Sub-seasonal to Multi-year Water Level Model in the Gulf of Mexico                                        |   |
+| Evan Krell  | Dec. 15, 10:30 - 14:50 | Exploring the Influence of Correlated Features on Geoscience AI Models to Improve the Scientific Insights Gained From Using Explainable AI Techniques for Feature Attribution |   |
+
+
+## Get involved
+
+As always, we encourage all iCORE members and iCORE-adjacent persons to get involved and propose workshop/lecture/training ideas that they would like to present.
+
+## iCORE resources
+
+- location: NRC 2100 Suite (https://goo.gl/maps/Htbp1YMASAmYqkFu9)
+- website: http://icore.tamucc.edu/
+- twitter: https://twitter.com/ICORE_TAMUCC
+- youtube: https://www.youtube.com/channel/UCvsK07PvushTI2BA2BhN-DQ
+- discord: https://discord.gg/3eeMN229cr
 
 
 
