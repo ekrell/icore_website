@@ -82,11 +82,11 @@ Tami King works remotely, from Corpus Christi, for the Computer Science and Engi
 
 ### AGU Annual Meeting 2023 (San Francisco, CA)
 
-| **Speaker** | **When**               | **Topic**                                                                                                                                                                     |   |
-|-------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| Wen Zhong   | Dec. 12, 18:24 - 18:27 | The Impact of Potential Land Subsidence on a Future DEM Based on InSAR, Airborne LiDAR, and Deep Learning                                                                     |   |
-| Marina Vicens-Miquel | Dec. 15, 16:10 - 20:30 | Advancing Coastal Inundation Frequency Predictions with an AI-based Sub-seasonal to Multi-year Water Level Model in the Gulf of Mexico                                        |   |
-| Evan Krell  | Dec. 15, 10:30 - 14:50 | Exploring the Influence of Correlated Features on Geoscience AI Models to Improve the Scientific Insights Gained From Using Explainable AI Techniques for Feature Attribution |   |
+| **Speaker** | **When**               | **Topic**                                                                                                                                                                     | 
+|-------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wen Zhong   | Dec. 12, 18:24 - 18:27 | The Impact of Potential Land Subsidence on a Future DEM Based on InSAR, Airborne LiDAR, and Deep Learning                                                                     | 
+| Marina Vicens-Miquel | Dec. 15, 16:10 - 20:30 | Advancing Coastal Inundation Frequency Predictions with an AI-based Sub-seasonal to Multi-year Water Level Model in the Gulf of Mexico                                        | 
+| Evan Krell  | Dec. 15, 10:30 - 14:50 | Exploring the Influence of Correlated Features on Geoscience AI Models to Improve the Scientific Insights Gained From Using Explainable AI Techniques for Feature Attribution | 
 
 
 ## Get involved
