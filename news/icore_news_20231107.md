@@ -54,7 +54,7 @@ iCORE is now hosting the Computer Science Interview Practice Club, a **student-r
 
 ![Xiaojun](../img/xiaojun.png)
 
-Last Friday, Xiaojun Qiao successfully defended his dissertation! Can you believe that the very next day, the doctor had to grill his own celebration dinner while I just lounged in my chair and watched it happen? Be sure to give Xiaojun your congrats. He is properly a member of the [MANTIS]() lab, but has long been a supporter of iCORE events and has collaborated with iCORE members. Most recently, for applying XAI for subsidence modeling. As of now, he has 5 papers: 3 are published or accepted and 2 more are under review. More importantly, he is very good at making dumpling and grilling chicken. 
+Last Friday, Xiaojun Qiao successfully defended his dissertation! Can you believe that the very next day, the doctor had to grill his own celebration dinner while I just lounged in my chair and watched it happen? Be sure to give Xiaojun your congrats. He is properly a member of the [MANTIS](https://mantisresearch.org/) lab, but has long been a supporter of iCORE events and has collaborated with iCORE members. Most recently, for applying XAI for subsidence modeling. As of now, he has 5 papers: 3 are published or accepted and 2 more are under review. More importantly, he is very good at making dumpling and grilling chicken. 
 
 ### Evan Krell's PhD Proposal has been delayed
 
