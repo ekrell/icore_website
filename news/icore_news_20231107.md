@@ -50,11 +50,11 @@ iCORE is now hosting the Computer Science Interview Practice Club, a **student-r
 
 ### News
 
-### Xiaojun Qiao has successfully defending his PhD propossal in the Geospatial Computer Science program
+### Xiaojun Qiao has successfully defended his PhD proposal in the Geospatial Computer Science program
 
 ![Xiaojun](../img/xiaojun.png)
 
-Last Friday, Xiaojun Qiao successfully defended his dissertation! Can you believe that the very next day, the doctor had to grill his own celebration dinner while I just lounged in my chair and watched it happen? Be sure to give Xiaojun your congrats. He is properly a member of the [MANTIS](https://mantisresearch.org/) lab, but has long been a supporter of iCORE events and has collaborated with iCORE members. Most recently, for applying XAI for subsidence modeling. As of now, he has 5 papers: 3 are published or accepted and 2 more are under review. More importantly, he is very good at making dumpling and grilling chicken. 
+Last Friday, Xiaojun Qiao successfully defended his dissertation! Can you believe that the very next day, the doctor had to grill his own celebration dinner while I just lounged in my chair and watched it happen? Be sure to give Xiaojun your congrats. He is properly a member of the [MANTIS](https://mantisresearch.org/) lab, but has long been a supporter of iCORE events and has collaborated with iCORE members. Most recently, for applying XAI for subsidence modeling. As of now, he has 5 papers: 3 are published or accepted and 2 more are under review. More importantly, he is very good at making dumplings and grilling chicken. 
 
 ### Evan Krell's PhD Proposal has been delayed
 
@@ -64,11 +64,11 @@ Last Friday, Xiaojun Qiao successfully defended his dissertation! Can you believ
 
 ### Open Source Computer Vision & AI Library OpenCV Needs Support 
 
-This tip comes from iCORE alumni [Alexis Guijarro](https://toton.dev/). OpenCV is one of the most used libraries for computer vision and is a critical component in countless AI projects, both research and operational. But they have had some trouble pushing OpenCV version 5 due to a lack of funds. So consider [supporting OpenCV](https://www.indiegogo.com/projects/opencv-5-support-non-profit-open-source-cv-ai#/), especially if you are among the thousands using it their projects. Obviously most of us are students with limited funds ourselves, but it doesn't heard to spread the word. Another way to help is to share your projects with the OpenCV community. They are looking for examples of projects that they can share in their newsletters, blogs, and other promotional media. Here is the [submission form](https://form.jotform.com/233105358823151). 
+This tip comes from iCORE alumni [Alexis Guijarro](https://toton.dev/). OpenCV is one of the most used libraries for computer vision and is a critical component in countless AI projects, both research and operational. However, they have had some trouble pushing OpenCV version 5 due to a lack of funds. So consider [supporting OpenCV](https://www.indiegogo.com/projects/opencv-5-support-non-profit-open-source-cv-ai#/), especially if you are among the thousands using it in their projects. Obviously, most of us are students with limited funds, but it doesn't hurt to spread the word. Another way to help is to share your projects with the OpenCV community. They are looking for examples of projects that they can share in their newsletters, blogs, and other promotional media. Here is the [submission form](https://form.jotform.com/233105358823151). 
 
 ### Dr. King & Evan Krell are headed to New Zealand to establish international research collaborations for AI2ES
 
-Part of [AI2ES](https://www.ai2es.org/) is to establish international research collaborations. So, Evan and Dr. King will be spending 2 weeks in New Zealand to work with some of Dr. King's colleagues from Auckland University on the North Island and University of Otago on the South Island. We will keep the iCORE community updated on our adventures. 
+Part of [AI2ES](https://www.ai2es.org/) is to establish international research collaborations. So, Evan and Dr. King will be spending 2 weeks in New Zealand to work with some of Dr. King's colleagues from Auckland University on the North Island and the University of Otago on the South Island. We will keep the iCORE community updated on our adventures. 
 
 ## Upcoming Conferences
 
