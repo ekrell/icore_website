@@ -22,6 +22,8 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 Last Friday, iCORE hosted a great talk on Automated Testing from Tami King. She presented test-driven development concepts such as _unit testing_, _integration testing_, and _acceptance testing_. Python and Ruby code examples included _test discovery_, _grouping tests_, _fixtures_, _markers_, and _mocking_. Thanks to the fifteen people who joined us either in person or online for the presentation. The material was highly relevant to programmers and _test-driven development_ is something that most of us don't do but should. 
 
+[Slides are available here](https://drive.google.com/file/d/1XaX8FhCpplxWEFqtUcEBj6UJ7o3FXvPN/view?usp=sharing)
+
 ### Next Meeting: November 17, 3:30 - 5:00 PM
 
 - **3:30 - 4:00 PM:** General updates
