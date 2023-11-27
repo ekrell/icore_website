@@ -52,6 +52,8 @@ We then flew to Dunedin in the South Island to meet with AI researchers from the
 
 I spent four days sick in Dunedin, so I missed a weekend of the trip. I still had work to do, and gave a presentation on FogNet to our colleagues from my hotel. In-person, I later gave a very casual presentation on what I learned about causal discovery as well as another on XAI benchmarks to the university's AI group. The audience was a good size with both faculty and grad students. I received some very good feedback from scientists at the University of Otago that should enrich my dissertation work. 
 
+![Dunedin](../img/dunedin.png)
+
 Dr. King has returned to Corpus, but I am staying a few extra nights just to play. Notice that I am taking time from a vacation evening to write this newsletter.
 
 ## Upcoming Conferences
