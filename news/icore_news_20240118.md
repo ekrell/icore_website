@@ -18,27 +18,38 @@ Alcatraz Island, seen during our conference trip [AGU Fall Meeting 2023](https:/
 
 **[iCORE Teams meeting link](https://teams.microsoft.com/l/meetup-join/19%3Ameeting_MDdlZDBiMTgtYzVjNS00YjhhLWE5OTctY2Y5YzMyYTljNzU5%40thread.v2/0?context=%7B%22Tid%22%3A%2234cbfaf1-67a6-4781-a9ca-514eb2550b66%22%2C%22Oid%22%3A%22994c008b-0707-4f3c-8ac0-73b65e733430%22%2C%22MessageId%22%3A%220%22%7D)**
 
-### Next Meeting: January 19, 3:00PM - 5:00PM
+### Next Meeting: January 19, 3:00 - 5:00 PM
 
-- **Event:** Evan Krell's practice lecture for [AMS Short Course: Machine Learning in Python for Environmental Science Problems]([Machine Learning in Python for Environmental Science Problems](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses/machine-learning-in-python-for-environmental-science-problems2/))
+- **Event:** Evan Krell's practice lecture for [AMS Short Course: Machine Learning in Python for Environmental Science Problems]([Machine Learning in Python for Environmental Science Problems](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses/machine-learning-in-python-for-environmental-science-problems2/)
 
-## Upcoming Events
+### Events
 
-### Machine Learning Talk: Meteorological Model Interpretation
+### Machine Learning Talk: Evan Krell's [AMS Short Course](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses/machine-learning-in-python-for-environmental-science-problems2/) Practice Lecture
 
-- Title: Application of XAI methods to a 3D Convolutional Neural Network Fog Prediction Model: Meteorological Interpretations of Output
-- Speaker: [Waylon Collins](https://www.researchgate.net/profile/Waylon-Collins)
-- When: Friday, Dec. 8, 4:00 - 5:00 PM
+- Title: practice lecture for [AMS Short Course: Machine Learning in Python for Environmental Science Problems]([Machine Learning in Python for Environmental Science Problems](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses/machine-learning-in-python-for-environmental-science-problems2/)
+- Speaker: [Evan Krell]([https://www.researchgate.net/profile/Waylon-Collins](https://ekrell.github.io/))
+- When: Friday, January 19, 3:00 - 5:00 PM
 - Where: iCORE (NRC 2100 suite)
 
-Frequent iCORE visitors are sure to have heard of [FogNet, a complex deep learning model for coastal fog prediction](https://gridftp.tamucc.edu/fognet/) by [Hamid Kamangir](https://scholar.google.com/citations?user=YLYJGQ8AAAAJ&hl=en). Evan Krell has used FogNet as a case study to explore eXplainable AI techniques. This study has been accepted in [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science). [Waylon Collins](https://www.researchgate.net/profile/Waylon-Collins) is a meteorologist from the National Weather Service who has been instrumental throughout the FogNet project, from selecting the input features to analyzing the results of the XAI techniques. In this talk, Waylon Collins will present his meteorological interpretation of the FogNet model. Waylon has been using neural networks for environmental science problems [for over fifteen years](https://www.researchgate.net/profile/Waylon-Collins/publication/237725662_137_USE_OF_THE_NCEP_MESOETA_DATA_IN_A_WATER_LEVEL_PREDICTING_NEURAL_NETWORK/links/581cf2ba08ae40da2cab3ce3/137-USE-OF-THE-NCEP-MESOETA-DATA-IN-A-WATER-LEVEL-PREDICTING-NEURAL-NETWORK.pdf). This should be an interesting talk for many of you since Waylon connects the AI modeling to domain expertise. 
+**AMS Short Course**
 
+- The American Meteorological Society (AMS) hosts an annual meeting that consists of many conferences. 
+- The [23rd Conference on Artificial Intelligence for Environmental Science]() is an important conference for many of us who are associated with [AI2ES]().
+- [Evan Krell](https://ekrell.github.io/) is a student member of the [AMS AI Committee] and is working with other [AI2ES]() members to develop and teach a single-day short course on [Machine Learning in Python for Environmental Science Problems]([Machine Learning in Python for Environmental Science Problems](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses/machine-learning-in-python-for-environmental-science-problems2/).
+  - Other course instructors: [Kara D. Lamb](https://kdlamb.github.io/), [Maria Molina](https://staff.ucar.edu/users/molina), and iCORE alumni [Hamid Kamangir](https://scholar.google.com/citations?user=YLYJGQ8AAAAJ&hl=en). 
 
+**iCORE Practice Session**
 
+- For tomorrow's practice, Evan will present his two course modules:
+  1. Data Preprocessing
+  2. EXplainable AI (XAI)
+- The presentation format is Google Colab notebooks, so feel free to access the notebooks and follow along
+- [Link to GitHub repo with the Colab notebooks](https://github.com/ekrell/ams_ai_shortcourse_2024)  <-- A work-in-progress
+- There are a few exercises for the class participants. These have not been tested, so... you could be a guinea pig. 
 
+## Recent Events
 
-
-
+### AGU Fall Meeting 2023
 
 
 
