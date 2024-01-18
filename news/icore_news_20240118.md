@@ -26,8 +26,8 @@ Alcatraz Island, seen during our conference trip [AGU Fall Meeting 2023](https:/
 
 ### Machine Learning Talk: Evan Krell's [AMS Short Course](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses/machine-learning-in-python-for-environmental-science-problems2/) Practice Lecture
 
-- Title: practice lecture for [AMS Short Course: Machine Learning in Python for Environmental Science Problems]([Machine Learning in Python for Environmental Science Problems](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses/machine-learning-in-python-for-environmental-science-problems2/)
-- Speaker: [Evan Krell]([https://www.researchgate.net/profile/Waylon-Collins](https://ekrell.github.io/))
+- Title: practice lecture for [AMS Short Course: Machine Learning in Python for Environmental Science Problems](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses/machine-learning-in-python-for-environmental-science-problems2/)
+- Speaker: [Evan Krell](https://ekrell.github.io/)
 - When: Friday, January 19, 3:00 - 5:00 PM
 - Where: iCORE (NRC 2100 suite)
 
