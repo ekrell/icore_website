@@ -1,4 +1,4 @@
-# iCORE Newsletter – 2023/12/04
+# iCORE Newsletter – 2024/01/18
 
 ![logo](../img/logo_plain_sm.jpg)
 
