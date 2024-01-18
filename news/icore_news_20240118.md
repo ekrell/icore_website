@@ -44,7 +44,7 @@ Alcatraz Island, seen during our conference trip [AGU Fall Meeting 2023](https:/
   1. Data Preprocessing
   2. EXplainable AI (XAI)
 - The presentation format is Google Colab notebooks, so feel free to access the notebooks and follow along
-- [Link to GitHub repo with the Colab notebooks](https://github.com/ekrell/ams_ai_shortcourse_2024)  <-- A work-in-progress
+- [Link to GitHub repo with the Colab notebooks](https://github.com/ekrell/ams_ai_shortcourse_2024)  <-- Private until tomorrow
 - There are a few exercises for the class participants. These have not been tested, so... you could be a guinea pig. 
 
 ## Recent Events
