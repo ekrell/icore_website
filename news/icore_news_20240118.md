@@ -51,6 +51,14 @@ Alcatraz Island, seen during our conference trip [AGU Fall Meeting 2023](https:/
 
 ### AGU Fall Meeting 2023
 
+![Evan & Marina at AGU](../img/sf_1.jpg)
+
+Last month, several of us went to the [AGU Fall Meeting 2023](https://www.agu.org/fall-meeting) in San Francisco, CA. 
+Several of us in iCORE or the GSCS program presented: [Marina Vicens-Miquel](https://marinavicensmiquel.github.io/cv.html), [Wen Zhong](https://scholar.google.com/citations?user=Xj3uOfUAAAAJ&hl=en), [Evan Krell](), and [Lapone Techapinyawat](https://www.wesalab.com/team-members). 
+
+![SF montage](../img/sf_2.jpg)
+
+**[San Francisco Adventure Photo Album](../img/AGU_2023_SanFrancisco.pdf)**
 
 
 
