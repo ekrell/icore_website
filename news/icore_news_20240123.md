@@ -66,6 +66,8 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 **Schedule**
 
+_Let me know if I missed anyone_
+
 | Day       | Time                | Location | Presenter                              | Title                                                                                                                                                    | Type   |
 |-----------|---------------------|----------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | Monday    | 11:45 AM - 12:00 PM | 338      | Miranda White                          | [Uncertainty Quantifications of the Onset and Offset of Cold-Stunning Events Using AI Ensemble Methods](https://ams.confex.com/ams/104ANNUAL/meetingapp.cgi/Paper/436611)                                                    | Oral   |
