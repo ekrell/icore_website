@@ -10,11 +10,9 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
-
-
-
-
-
+- iCORE is back for Spring 2024
+- Hope everyone had a good winter break
+- We are planning a variety of events: workshops, lectures, etc
 
 ## iCORE Meetings
 
@@ -22,15 +20,21 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ### Previous Meeting: January 19, 3:00 - 5:00 PM
 
+![Welcome sign for the event](spring2024_meet_1.jpg)
+
 - Evan Krell presented a practice session of two machine learning course modules.
+- In-person & online attendance was relatively high: a good start to the Spring semester.
 - These modules are part of the [AMS Short Course: Machine Learning in Python for Environmental Science Problems](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses/machine-learning-in-python-for-environmental-science-problems2/)
 - This is a day-long course that will be given at the upcoming [104th Annual Meeting of the American Meteorological Society](https://annual.ametsoc.org/index.cfm/2024/)
 - Evan is presenting modules on: (1) data preprocessing and investigation, (2) eXplainable AI (XAI)
-- The Colab notebooks for the course are [available here](https://github.com/ekrell/ams_ai_shortcourse_2024). They have been updated since the practice. 
+- The Colab notebooks for the course are [available here](https://github.com/ekrell/ams_ai_shortcourse_2024). They have been updated since the practice.
 
-### Next Meeting: February 9, 3:30 - 5:00 PM
+![Evan presenting](spring2024_meet_2.jpg)
 
-- Because Dr. King & Evan are traveling for the next two weeks, the next meeting is in **three weeks**
+### Next Meeting: February 16, 3:30 - 5:00 PM
+
+**Because of travel, we'll take a break until Feb. 16th**
+
 - Goals:
   1. Plan out the Spring semester events
   2. General research updates from iCORE members
