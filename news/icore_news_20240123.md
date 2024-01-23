@@ -20,7 +20,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ### Previous Meeting: January 19, 3:00 - 5:00 PM
 
-![Welcome sign for the event](spring2024_meet_1.jpg)
+![Welcome sign for the event](../img/spring2024_meet_1.jpg)
 
 - Evan Krell presented a practice session of two machine learning course modules.
 - In-person & online attendance was relatively high: a good start to the Spring semester.
@@ -29,7 +29,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 - Evan is presenting modules on: (1) data preprocessing and investigation, (2) eXplainable AI (XAI)
 - The Colab notebooks for the course are [available here](https://github.com/ekrell/ams_ai_shortcourse_2024). They have been updated since the practice.
 
-![Evan presenting](spring2024_meet_2.jpg)
+![Evan presenting](../img/spring2024_meet_2.jpg)
 
 ### Next Meeting: February 16, 3:30 - 5:00 PM
 
