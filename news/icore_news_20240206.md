@@ -48,15 +48,23 @@ He collaborated with iCORE member Evan Krell for the eXplainable AI component.
 
 ### 104th Annual Meeting of the American Meteorological Society
 
+
+
+
+
 #### NOAA CO-OPS Visit
 
 ![NOAA CO-OPS](../img/ams2024_2.jpg)
 
 
 
+
+
 #### Short Course
 
 ![Hamid delivering lecture](../img/ams2024_3.jpg)
+
+
 
 
 
@@ -67,12 +75,20 @@ He collaborated with iCORE member Evan Krell for the eXplainable AI component.
 
 
 
+
 #### 23rd Conference on Artificial Intelligence for Environmental Science
 
 ![Sightings at AMS](../img/ams2024_5.jpg)
 
 
+
+
+
 #### Wrap-up Dinner & the Journey Home
+
+![Trains and planes](../img/ams2024_6.jpg)
+
+
 
 
 
