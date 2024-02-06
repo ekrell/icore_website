@@ -54,9 +54,11 @@ Dr. King, Evan Krell, and others in iCORE are part of [AI2ES](https://www.ai2es.
 
 ![NOAA CO-OPS](../img/ams2024_2.jpg)
 
+A smaller number of our group flew to Baltimore early for a meeting with the NOAA CO-OPS team. We have been working with them to apply machine learning to detect bad water level sensor readings. iCORE's role was to refactor their Python code so that it could be run on HPC systems and take advantage of GPUs. The code is open source and [available on Github](https://github.com/NOAA-CO-OPS/wlai-uf-hackathon-2023). 
 
+We were given a partial tour of the facilities and saw many interesting water sensors. But they had a fascinating piece of historical technology within their collection: an early 20th-century tide prediction machine. This is a crank-operated analog computer built from hand-crafted components. This beautiful machine is among ~20 similar devices created worldwide. It is still operational and we were given a short demonstration. Some contemporary photos are available [here](https://tidesandcurrents.noaa.gov/predma2.html) and there is plenty more information [available on Wikipedia](https://en.wikipedia.org/wiki/Tide-Predicting_Machine_No._2). 
 
-
+We enjoyed talks on CO-OPS from Jimmy Spore & Lindsay Abrams. Our group then gave presentations from Philippe Tissot, Marina Vicens-Miquel, Marinda White, Matthew Kastl, and Evan Krell. (Beto was there, but just chillin'). After many great discussions, we headed back to Baltimore. 
 
 #### Short Course
 
