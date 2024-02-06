@@ -56,6 +56,10 @@ He collaborated with iCORE member Evan Krell for the eXplainable AI component.
 
 #### Short Course
 
+![Hamid delivering lecture](../img/ams2024_3.jpg)
+
+
+
 #### AI2ES Meeting
 
 #### 23rd Conference on Artificial Intelligence for Environmental Science
