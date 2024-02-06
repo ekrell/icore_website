@@ -48,9 +48,7 @@ He collaborated with iCORE member Evan Krell for the eXplainable AI component.
 
 ### 104th Annual Meeting of the American Meteorological Society
 
-
-
-
+Dr. King, Evan Krell, and others in iCORE are part of [AI2ES](https://www.ai2es.org): an NSF institute for AI in environmental science with a strong focus on ensuring ethical and useful application of AI to solve societal problems. At TAMUCC, we form AI2ES's coastal group through the Conrad Blucher Institute. The details are a bit messy (there is [CBI](https://www.conradblucherinstitute.org/), [CDL](https://www.coastaldynamicslab.org/), iCORE, ...lots of logos to remember to add to my slides!) but the point is that 20 of us went to Baltimore to attend AMS. Most of these are local faculty and students, but some work with our team remotely. AMS is a great opportunity to catch up with the rest of AI2ES and other researchers applying AI to environmental science applications. I have attended the past four AMS annual meetings, and I have seen a rapid increase in the sophistication of AI being used. I remember at my first AMS, it seemed like every other model was a Random Forest. This year, generative models were the hot architecture of choice. There was also an increased focus on eXplainable AI and uncertainty quantification. 
 
 #### NOAA CO-OPS Visit
 
