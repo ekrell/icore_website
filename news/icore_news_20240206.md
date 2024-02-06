@@ -69,6 +69,7 @@ He collaborated with iCORE member Evan Krell for the eXplainable AI component.
 
 #### 23rd Conference on Artificial Intelligence for Environmental Science
 
+![Sightings at AMS](../img/ams2024_5.jpg)
 
 
 #### Wrap-up Dinner & the Journey Home
