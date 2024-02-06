@@ -32,7 +32,7 @@ Baltimore Inner Harbor. Several of us were at the [104th AMS Annual Meeting](htt
 
 Dr. Qiao, recent GSCS PhD graduate, has returned to China after five years at TAMUCC. 
 He has been a long-time iCORE supporter, attending most meetings and events. 
-His research focuses on land subsidence. In this paper, he used machine learning for subsidence modeling, 
+His research focuses on land subsidence. In this paper, he used machine learning for subsidence modeling 
 and then used explainability techniques to investigate the influence of the input features on model decisions. 
 He collaborated with iCORE member Evan Krell for the eXplainable AI component.
 
@@ -42,6 +42,23 @@ He collaborated with iCORE member Evan Krell for the eXplainable AI component.
 - Sample image below taken from the paper
 
 ![XAI Feature Ranks from the paper](../img/xiaojun_xai.png)
+
+
+## Recent Events
+
+### 104th Annual Meeting of the American Meteorological Society
+
+#### NOAA CO-OPS Visit
+
+#### Short Course
+
+#### AI2ES Meeting
+
+#### 23rd Conference on Artificial Intelligence for Environmental Science
+
+#### Wrap-up Dinner & the Journey Home
+
+
 
 ## Get involved
 
@@ -54,13 +71,3 @@ As always, we encourage all iCORE members and iCORE-adjacent persons to get invo
 - twitter: https://twitter.com/ICORE_TAMUCC
 - youtube: https://www.youtube.com/channel/UCvsK07PvushTI2BA2BhN-DQ
 - discord: https://discord.gg/3eeMN229cr
-
-
-
-
-
-
-
-
-
-
