@@ -50,6 +50,10 @@ He collaborated with iCORE member Evan Krell for the eXplainable AI component.
 
 #### NOAA CO-OPS Visit
 
+![NOAA CO-OPS](../img/ams2024_2.jpg)
+
+
+
 #### Short Course
 
 #### AI2ES Meeting
