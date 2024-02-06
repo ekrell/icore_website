@@ -10,7 +10,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
-![ams2024_1.jpg](../img/ams2024_1.jpg)
+![Inner Harbor](../img/ams2024_1.jpg)
 
 Baltimore Inner Harbor. Several of us were at the [104th AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2024/) last week that took place in Baltimore.
 
@@ -62,7 +62,14 @@ He collaborated with iCORE member Evan Krell for the eXplainable AI component.
 
 #### AI2ES Meeting
 
+![AI2ES Group Photo](../img/ams2024_4.jpg)
+
+
+
+
 #### 23rd Conference on Artificial Intelligence for Environmental Science
+
+
 
 #### Wrap-up Dinner & the Journey Home
 
