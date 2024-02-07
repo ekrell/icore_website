@@ -59,7 +59,7 @@ We were given a partial tour of the facilities and saw many interesting water se
 
 We enjoyed talks on CO-OPS from Jimmy Spore & Lindsay Abrams. Our group then gave presentations from Philippe Tissot, Marina Vicens-Miquel, Marinda White, Matthew Kastl, and Evan Krell. (Beto was there, but just chillin'). After many great discussions, we headed back to Baltimore. A huge thanks to Lindsay & Jimmy for hosting us!
 
-(For our early-morning meeting, they had provided a box of Dunkin' Donuts coffee. However... only I was the only one drinking from it. Jimmy was handing out tea bags and Tissot brought his coffee from breakfast. I hated to see so much coffee go to waste, so I was forced to solo an entire 64 fl oz Dunkin' [box o' joe](https://www.grubhub.com/restaurant/dunkin-6093-saratoga-blvd-corpus-christi/2134545/menu-item/7821149144?menu-item-options=).)
+(For our early-morning meeting, they had provided a box of Dunkin' Donuts coffee. However... I was the only one drinking from it. Jimmy was handing out tea bags and Tissot brought his coffee from breakfast. I hated to see so much coffee go to waste, so I was forced to solo an entire 64 fl oz Dunkin' [box o' joe](https://www.grubhub.com/restaurant/dunkin-6093-saratoga-blvd-corpus-christi/2134545/menu-item/7821149144?menu-item-options=).)
 
 #### Short Course
 
