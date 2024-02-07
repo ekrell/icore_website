@@ -33,7 +33,7 @@ Dr. Qiao, recent GSCS PhD graduate, has returned to China after five years at TA
 He has been a long-time iCORE supporter, attending most meetings and events. 
 His research focuses on land subsidence. In this paper, he used machine learning for subsidence modeling 
 and then used explainability techniques to investigate the influence of the input features on model decisions. 
-He collaborated with iCORE member Evan Krell for the eXplainable AI component.
+He collaborated with iCORE for the eXplainable AI component.
 
 - **Title:** [Interpretation and Attribution of Coastal Land Subsidence: An InSAR and Machine Learning Perspective](https://ieeexplore.ieee.org/abstract/document/10418467)
 - **Authors:** Xiaojun Qiao, Tianxing Chu, Evan Krell, Philippe Tissot, Seneca Holland, Mohamed Ahmed, Danielle Smilovsky
