@@ -73,14 +73,13 @@ This was an all-day course divided into two sections. The morning was devoted to
 
 All course materials are available in this [GitHub repo](https://github.com/ekrell/ams_ai_shortcourse_2024).
 
-
 #### AI2ES Meeting
 
 ![AI2ES Group Photo](../img/ams2024_4.jpg)
 
+I could not attend since I was involved with the Short Course, but it sounds like everyone had a great time at the AI2ES meeting. Hamid and I were able to join the rest of the team for a buffet at the Rusty Scupper.
 
-
-
+(Credit to [William McGovern-Fagg](https://www.linkedin.com/in/william-mcgovern-fagg-366387217/) for the above group photo.)
 
 #### 23rd Conference on Artificial Intelligence for Environmental Science
 
