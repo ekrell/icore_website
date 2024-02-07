@@ -89,14 +89,19 @@ All course materials are available in this [GitHub repo](https://github.com/ekre
 
 AMS really takes off on Monday for a four-day onslaught of talks and posters. The annual meeting gathers many conferences in one place. Our main focus is the Conference on AI for Environmental Science. Currently, Evan Krell and Waylon Collins are part of the AMS AI Committee that makes it all happen. With multiple concurrent sessions at any given time, it is not always easy to choose which talks to attend. I enjoyed a lot of good content on eXplainable AI, generative networks, and uncertainty quantification. There was also a little more push toward operationalizing AI models, which is very much needed to get our work available to be useful to decision-makers. 
 
-(Baltimore is a nice city. I had a minor run-in with a gang of ruffians, just outside the conference center. To catch up with Beto et al. for brunch, I broke out into a light jog as soon as the crosswalk sign allowed it. A young gentleman to my right started yelling "quit running!!" a bunch of times. Naturally, I sped up. Then, a small pebble landed by my running feet. This was followed by additional pebbles striking me in the back. I briefly turned to see that a group of thugs were pelting me with pebbles. I managed to escape their reach and enjoyed my brunch without further incident.)
+(I had a minor run-in with a gang of ruffians, just outside the conference center. To catch up with Beto et al. for brunch, I broke out into a light jog as soon as the crosswalk sign allowed it. A young gentleman to my right started yelling "quit running!!" a bunch of times. Naturally, I sped up. Then, a small pebble landed by my running feet. This was followed by additional pebbles striking me in the back. I briefly turned to see that a group of thugs were pelting me with pebbles. I managed to escape their reach and enjoyed my brunch without further incident.)
 
 #### Wrap-up Dinner & the Journey Home
 
 ![Trains and planes](../img/ams2024_6.jpg)
 
+After a long final day at the conference, over twenty of us went to celebrate with a big group dinner. 
+Because of my good track record, I had been put in charge of selecting the restaurant. 
+Beto, Matthew, and I had already checked out [Water Song Yunnan Kitchen](https://www.watersongkitchen.com/) on Federal Hill.
+I knew it was delicious, and that Chinese restaurants are perfect for sharing many dishes among a crowd. 
+Also, I was in trouble with some of my Chinese friends because I did not order the famous Yunnanese dish [Crossing-the-bridge noodles](https://en.wikipedia.org/wiki/Crossing-the-bridge_noodles). So I was quite determined that this would be the restaurant. Also, it was situated among many other restaurants, so there were plan B's and C's should they be too full to seat our massive gathering. There were several doubters of my plan, but everything worked out perfectly. Not only were they happy to seat us all (it was a near-empty Thursday night), but they could give individual checks. FYI, the best dish is the Golden Pig Trotters :heart_eyes:.
 
-
+(There was a large TV up on the wall in the restaurant that was playing [Dianxi Xiaoge's videos](https://www.youtube.com/channel/UCQG_fzADCunBTV1KwjkfAQQ) the entire time :thumbsup:.)
 
 
 ## Get involved
