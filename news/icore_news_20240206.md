@@ -87,9 +87,9 @@ All course materials are available in this [GitHub repo](https://github.com/ekre
 
 ![Sightings at AMS](../img/ams2024_5.jpg)
 
+AMS really takes off on Monday for a four-day onslaught of talks and posters. The annual meeting gathers many conferences in one place. Our main focus is the Conference on AI for Environmental Science. Currently, Evan Krell and Waylon Collins are part of the AMS AI Committee that makes it all happen. With multiple concurrent sessions at any given time, it is not always easy to choose which talks to attend. I enjoyed a lot of good content on eXplainable AI, generative networks, and uncertainty quantification. There was also a little more push toward operationalizing AI models, which is very much needed to get our work available to be useful to decision-makers. 
 
-
-
+(Baltimore is a nice city. I had a minor run-in with a gang of ruffians, just outside the conference center. To catch up with Beto et al. for brunch, I broke out into a light jog as soon as the crosswalk sign allowed it. A young gentleman to my right started yelling "quit running!!" a bunch of times. Naturally, I sped up. Then, a small pebble landed by my running feet. This was followed by additional pebbles striking me in the back. I briefly turned to see that a group of thugs were pelting me with pebbles. I managed to escape their reach and enjoyed my brunch without further incident.)
 
 #### Wrap-up Dinner & the Journey Home
 
