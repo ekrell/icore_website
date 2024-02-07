@@ -12,7 +12,7 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ![Inner Harbor](../img/ams2024_1.jpg)
 
-Baltimore Inner Harbor. Several of us were at the [104th AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2024/) last week that took place in Baltimore.
+Baltimore Inner Harbor. Several of us were at the [104th AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2024/) last week..
 
 
 ## iCORE Meetings
