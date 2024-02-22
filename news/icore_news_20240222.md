@@ -128,9 +128,11 @@ Image taken from [Haupt et al, 2023](https://wes.copernicus.org/articles/8/1251/
 
 **Abstract:** In the ever-evolving landscape of cybersecurity, incident responders play a pivotal role in defending organizations against cyber threats. This talk offers a firsthand glimpse into the daily challenges of an incident responder. Shedding light on the dynamic nature of their responsibilities when facing threat actors ranging from financially motivated cyber gangs to nation state sponsored attackers.
 
-### MSGSO 
+### MSGSO Seminar - Suraida Nanez James
 
 ![Flyer for MSGSO GulfReach](../img/msgso_gulfreach.jpg)
+
+An event from our friends at the Marine Science Graduate Student Organization (MSGSO).
 
 **Text from the MSGSO Email:**
 
