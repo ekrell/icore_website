@@ -46,6 +46,10 @@ Hope everyone is having a good dragon year so far!
 - **When:** Friday, March 22, 4:00 - 5:00 PM
 - **Where:** iCORE (NRC 2100 suite)
 
+![GANs](../img/suegan.png)
+
+Image taken from [Haupt et al, 2023](https://wes.copernicus.org/articles/8/1251/2023/)
+
 ### Dissertation Practice Sessions
 
 - Two GSCS students are soon to defend their dissertation.
@@ -95,11 +99,15 @@ Hope everyone is having a good dragon year so far!
 - **When:** March 7, 8:00 AM
 - **Where:** TO BE ANNOUNCED
 
+![Geospatial XAI challenge](../img/evangeo.png)
+
 **Project Summary:** With the rapid deployment of high-resolution sensors and models, geospatial data is captured and generated at an extremely high rate. By automatically extracting information from large data volumes, machine learning is increasingly used to turn massive geospatial data into geoscience insights. There is widespread use of high-dimensional raster data from which complex machine learning algorithms learn to recognize spatial and spatial-temporal patterns. These models may be used for critical decision-making or as a way to aid scientific discovery. Complex models can learn highly non-linear relationships to achieve high performance, but there is a concern that their complexity makes it very difficult for users to determine how the model reached its decision. This has motivated the widespread adoption of explainable artificial intelligence (XAI) techniques that probe the model in various ways to explain how it works. XAI methods are highly sensitive to correlations among input predictors. Proposed mitigations involve grouping correlated predictors and applying XAI to groups instead of individuals. However, there are major challenges to grouping the grid cells of geoscience rasters based on their correlation. These datasets are commonly high-dimensional with substantial autocorrelation. Conventional techniques for grouping correlated tabular features are rarely applicable. The purpose of this research is to develop strategies for using data-driven clustering techniques to group raster data to improve the accuracy of XAI results. First, we describe the limitations of current approaches and identify XAI challenges related to raster-based geoscience models. We then develop a set of benchmarks so that we can quantitatively assess XAI methods in a variety of complex scenarios. Finally, we propose and evaluate methodologies for applying clustering and XAI techniques. These include a hierarchical clustering approach to automatically investigate multiple scales of patterns in high-dimensional data.
 
 ## News
 
 ### New Paper by Abhishek Phadke
+
+![Drone word cloud](../img/abhidrone.jpg)
 
 - **Title:** An Analysis of Trends in UAV Swarm Implementations in Current Research: Simulation Versus Hardware
 - **Published on:** February 2024
