@@ -96,7 +96,7 @@ Image taken from [Haupt et al, 2023](https://wes.copernicus.org/articles/8/1251/
 
 - **Speaker:** [Evan Krell]()
 - **Title:** Clustering Strategies For XAI with Correlated, High-Dimensional Geoscience AI Models
-- **When:** March 7, 8:00 AM
+- **When:** March 7, 8:30 AM
 - **Where:** TO BE ANNOUNCED
 
 ![Geospatial XAI challenge](../img/evangeo.png)
