@@ -78,7 +78,7 @@ Image taken from [Haupt et al, 2023](https://wes.copernicus.org/articles/8/1251/
 
 - **Presenter:** [Abhishek Phadke](https://sites.google.com/view/abhishek-phadke)
 - **Title:** Enabling Resilient Operations of Unoccupied Aerial Vehicle (UAV) Swarms
-- **When:** Thursday, March 25, 3:00 - 4:30 PM
+- **When:** Monday, March 25, 3:00 - 4:30 PM
 - **Where:** iCORE (NRC 2100 suite)
 
 **Research Objectives:**
