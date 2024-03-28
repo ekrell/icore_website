@@ -37,18 +37,18 @@ A much lower-resolution output can be generated very quickly, but without the fi
 So, ML is being used to quickly estimate the detailed high-resolution from the low-detail version. 
 To learn more, see her [recent publication.](https://wes.copernicus.org/articles/8/1251/2023/)
 
-
 ### Next Meeting: March 29, 3:30 - 5:00 PM
 
 **iCORE EVENT**
 
 Dr. José Baca is the co-founder of [CORAL: the  Collaborative Robots and Agents Lab](https://www.instagram.com/coral.roboticslab/). This Friday, he will be sharing some of his research in modularity for autonomous systems. At [this link](https://sites.google.com/site/bacajose/research/modular-robots), you can see all kinds of modular robots: underwater, flying, and even space vehicles!
 
+![Modred system overview](../img/modred.png)
+
 - **Topic:** Modularity in Autonomous Systems: Ground, Maritime, Air, and Space
 - **Speaker:** [José Baca](https://sites.google.com/site/bacajose/)
 - **When:** Friday, March 29, 4:00 - 5:00 PM
 - **Where:** iCORE (NRC 2100 suite)
-
 
 ## PhD Dissertation Defenses
 
@@ -71,6 +71,8 @@ Dr. José Baca is the co-founder of [CORAL: the  Collaborative Robots and Agents
 - Autonomous vehicles (e.g. drones) can work together on complex tasks, but the real-world can be a harsh environment.
 - There are many problems: loss of communications, battery depletion, high winds...
 - So Abhishek has been working on systems that take into account potential failures so that the system can continue working even when such issues arise.
+
+![Simulation setup](../img/abhishek_frontiers.jpg)
 
 - **When:** Mar 29, 2024 12:00 PM 
 - **Where:** OCNR 118
@@ -107,6 +109,8 @@ Dr. José Baca is the co-founder of [CORAL: the  Collaborative Robots and Agents
 - Miranda is a convergent researcher with expertise in statistics, environmental science, and stakeholder interaction.
 - She develops ML models for predicting cold-water conditions that can trigger cold-stunned sea turtles.
 - And, she works with the relevant stakeholders to find out their modeling needs and what aspects of the system increase (or decrease) their trust in the model and how useful it is for their goals.
+
+![Miranda's poster](../img/miranda_poster.jpg)
 
 - When: April 5, 12:00 p.m. CST
 - Where: NRC 1003
