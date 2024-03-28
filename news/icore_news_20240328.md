@@ -119,6 +119,19 @@ For over fifteen years (in. 2007, op. 2010), model outputs from Texas A&M Univer
 This dissertation research will thus focus on (1) exploring information and communication pathways of ML water temperature predictions within the TCRC, (2) developing and evaluating uncertainty quantifications of ML-derived water temperature predictions using an ensemble of ML models, and (3) assessing the trust, trustworthiness, and usability of the ML ensemble and its associate uncertainty information with stakeholders that is contextual to their decision space (i.e., goals, values, barriers, needs, experiences, expectations, etc.). Therefore, collaboration with various partners, ML-developers, and end-users will be facilitated to better understand the landscape around trust amongst key stakeholders when using ML-derived information and to identify the contextual factors that are most important for how they relate to users’ needs and decision-making processes. Through use-inspired ML development, this research aims to provide useful and trustworthy ML model predictions, uncertainty quantifications, and visualizations that will help improve stakeholder decision-making during extreme cold events along the southern Texas coast.
 
 
+## Get involved
+
+As always, we encourage all iCORE members and iCORE-adjacent persons to get involved and propose workshop/lecture/training ideas that they would like to present.
+
+## iCORE resources
+
+- location: NRC 2100 Suite (https://goo.gl/maps/Htbp1YMASAmYqkFu9)
+- website: http://icore.tamucc.edu/
+- twitter: https://twitter.com/ICORE_TAMUCC
+- youtube: https://www.youtube.com/channel/UCvsK07PvushTI2BA2BhN-DQ
+- discord: https://discord.gg/3eeMN229cr
+
+
 
 
 
