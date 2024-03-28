@@ -42,8 +42,10 @@ To learn more, see her [recent publication.](https://wes.copernicus.org/articles
 
 **iCORE EVENT**
 
-- **Topic:** 
-- **Speaker:** 
+Dr. José Baca is the co-founder of [CORAL: the  Collaborative Robots and Agents Lab](https://www.instagram.com/coral.roboticslab/). This Friday, he will be sharing some of his research in modularity for autonomous systems. At [this link](https://sites.google.com/site/bacajose/research/modular-robots), you can see all kinds of modular robots: underwater, flying, and even space vehicles!
+
+- **Topic:** Modularity in Autonomous Systems: Ground, Maritime, Air, and Space
+- **Speaker:** [José Baca](https://sites.google.com/site/bacajose/)
 - **When:** Friday, March 29, 4:00 - 5:00 PM
 - **Where:** iCORE (NRC 2100 suite)
 
