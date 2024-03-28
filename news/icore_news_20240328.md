@@ -70,8 +70,11 @@ To learn more, see her [recent publication.](https://wes.copernicus.org/articles
 - There are many problems: loss of communications, battery depletion, high winds...
 - So Abhishek has been working on systems that take into account potential failures so that the system can continue working even when such issues arise.
 
-- When:
-- WHere:
+- **When:** Mar 29, 2024 12:00 PM 
+- **Where:** OCNR 118
+- [Remote Meeting Link](https://tamucc.zoom.us/j/93363507591?pwd=a1hQMUt2R2Ixek0xblVmWWVPUzFMZz09)
+
+**Abstract:** UAVs (Unoccupied Aerial Vehicles) are used in fields such as surveying, military operations, and disaster relief due to their cost-effectiveness, temporal efficiency, operational flexibility, and uncrewed capability. Collaborative efforts among UAV swarms can further improve results. However, whereas controlling a single UAV in dynamic environments is challenging, this complexity escalates in swarm operations. Swarms need to be operationally resilient to avoid cascaded failures and maintain mission progress. Resiliency, or the ability of a system to handle disruptions, is critical yet challenging to achieve in UAV swarms. This dissertation assesses current resiliency methods in swarm systems and proposes a comprehensive framework to enhance swarm resilience from the ground up. The approach includes a unified resource tracking framework for UAVs called USMART, focusing on robust communication, environmental awareness, and optimized task assignments. Additionally, a novel self-healing module targets distressed agents, tracking their well-being, and providing reactive measures. The methods employ a modular approach, integrating predefined schemes and response selection algorithms to improve system resilience. Finally, the impact of external disruptions on swarm behavior through a systematic experimentation methodology for simulations is explored. This study aims to bridge the gap towards a resilient UAV swarm by addressing swarm resilience from both systemic development and simulated disruption perspectives. 
 
 ## PhD Proposal Defenses
 
@@ -83,8 +86,6 @@ To learn more, see her [recent publication.](https://wes.copernicus.org/articles
 - There is a huge need to apply technology to increase yield at lower costs.
 - Mahmoud is combining ML and photogrammetry to turn 2D aerial imagery into 3D recustructions of crops.
 - This can be used to quickly count crops and monitor growth, among other benefits. 
-
-
 
 ## Evan Krell (March 7)
 
@@ -98,11 +99,22 @@ To learn more, see her [recent publication.](https://wes.copernicus.org/articles
 ![Evan's snacks](../img/evan_snacks.jpg)
 
 
-## Miranda White
+## Miranda White (April 5)
 
-- When: 
-- Where: 
+- Next up: Miranda White defends her proposal in the CMSS program.
+- Miranda is a convergent researcher with expertise in statistics, environmental science, and stakeholder interaction.
+- She develops ML models for predicting cold-water conditions that can trigger cold-stunned sea turtles.
+- And, she works with the relevant stakeholders to find out their modeling needs and what aspects of the system increase (or decrease) their trust in the model and how useful it is for their goals.
 
+- When: April 5, 12:00 p.m. CST
+- Where: NRC 1003
+- [Remote Meeting Link](https://tamucc.zoom.us/j/97410020113?pwd=Q29PWjU1a2E4V1grM1R5QW51VUdVZz09)
+
+**Abstract:** Given the climatic conditions of southern Texas, the Laguna Madre can cool down very rapidly and serve as a “trap” to marine life when cold weather fronts travel to the coast. This results in the loss of mobility of economically valuable fish and endangered sea turtles, potentially leading to severe cold-related illnesses or death. This places heavy emphasis on effectively predicting and communicating when water temperatures fall below cold-stunning thresholds to provide stakeholders with sufficient time to prepare for sea turtle and fishery recovery efforts and mitigation measures such as navigation interruptions in the Laguna Madre.
+
+For over fifteen years (in. 2007, op. 2010), model outputs from Texas A&M University-Corpus Christi Conrad Blucher Institute’s Cold-Stunning machine learning (ML) models have been utilized by a diverse stakeholder base, often referred to as the Texas Marine Response Collaborative (TCRC), including stakeholders in the National Park Service, Texas Parks and Wildlife Department, Gulf Intracoastal Canal Association, and National Weather Service. Recent discussions with stakeholders have shown a need for uncertainty quantifications of when and how long cold-stunning events and the related responses will be. However, further problem identification between ML developers and end-users regarding relevant and useful representations of uncertainty is needed for a more use-inspired and effective ML design.
+
+This dissertation research will thus focus on (1) exploring information and communication pathways of ML water temperature predictions within the TCRC, (2) developing and evaluating uncertainty quantifications of ML-derived water temperature predictions using an ensemble of ML models, and (3) assessing the trust, trustworthiness, and usability of the ML ensemble and its associate uncertainty information with stakeholders that is contextual to their decision space (i.e., goals, values, barriers, needs, experiences, expectations, etc.). Therefore, collaboration with various partners, ML-developers, and end-users will be facilitated to better understand the landscape around trust amongst key stakeholders when using ML-derived information and to identify the contextual factors that are most important for how they relate to users’ needs and decision-making processes. Through use-inspired ML development, this research aims to provide useful and trustworthy ML model predictions, uncertainty quantifications, and visualizations that will help improve stakeholder decision-making during extreme cold events along the southern Texas coast.
 
 
 
