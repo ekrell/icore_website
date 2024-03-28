@@ -46,3 +46,65 @@ To learn more, see her [recent publication.](https://wes.copernicus.org/articles
 - **Speaker:** 
 - **When:** Friday, March 29, 4:00 - 5:00 PM
 - **Where:** iCORE (NRC 2100 suite)
+
+
+## PhD Dissertation Defenses
+
+### Marina Vicens-Miquel (March 27)
+
+- Marina Vicens-Miquel has successfully defended her PhD in the GSCS program!
+- She is part of [AI2ES](https://www.ai2es.org/) and the [Coastal Dynamics Lab](https://www.coastaldynamicslab.org/).
+- She uses AI for a variety of research works related to water level prediction.
+- Including total water level: how far the water will reach up the the beach.
+- Locally, this is of high importance to conservation of endangered sea turtles.
+- She already has a post-doc at The University of Oklahoma, working under [Dr. Amy McGovern](https://www.ou.edu/coe/cs/people/faculty/amy-mcgovern).
+
+![Marina's Defense](../img/marina_defense.jpg)
+
+### Abhishek Phadke (March 29)
+
+- Abhishek Phadke will defend his PhD in the GSCS program **this Friday**.
+- He is part of [GOAL](https://antoniomedrano.github.io/GOAL.html) in the [Conrad Blucher Institute](https://www.conradblucherinstitute.org/).
+- His research focuses on resiliency in autonomous systems.
+- Autonomous vehicles (e.g. drones) can work together on complex tasks, but the real-world can be a harsh environment.
+- There are many problems: loss of communications, battery depletion, high winds...
+- So Abhishek has been working on systems that take into account potential failures so that the system can continue working even when such issues arise.
+
+- When:
+- WHere:
+
+## PhD Proposal Defenses
+
+### Mahmoud Eldefrawy (March 18)
+
+- Mahmoud Eldefrawy successfully defended his proposal in the GSCS program!
+- His research is on smart agriculture: using machine learning and autonomous systems to improve agricultural efficiency.
+- With a growing population and environmntal pressures, food availability will be a major challenge.
+- There is a huge need to apply technology to increase yield at lower costs.
+- Mahmoud is combining ML and photogrammetry to turn 2D aerial imagery into 3D recustructions of crops.
+- This can be used to quickly count crops and monitor growth, among other benefits. 
+
+
+
+## Evan Krell (March 7)
+
+- Evan Krell successully defended his GSCS proposal.
+- He also writes these newsletters, so he doesn't want to make a big deal of it.
+- We use complex ML models and we don't know how they work... but what if we did?
+- Explainable AI (XAI) is a broad class of techniques that help us peer into these models: what strategies did the model learn?
+- But Evan (1) showed that XAI for geospatial model is really hard and (2) has ideas on how to improve it.
+- He also had good snacks.
+
+![Evan's snacks](../img/evan_snacks.jpg)
+
+
+## Miranda White
+
+- When: 
+- Where: 
+
+
+
+
+
+
