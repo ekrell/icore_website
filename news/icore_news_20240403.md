@@ -10,9 +10,9 @@ If you have any news or resources you would like to share, send an email to [Eva
 
 ## Welcome
 
+![genus Sisyrinchium](../img/purple_flower.jpg)
 
-...
-
+A member of genus _Sisyrinchium_, spotted in Port Aransas. 
 
 ## iCORE Meetings
 
@@ -31,8 +31,6 @@ Last week, we had a great talk from [Dr. José Baca](https://sites.google.com/si
 
 Dr. Monique Shotande is a post-doc researcher at the University of Oklahoma and a part of [AI2ES](https://www.ai2es.org). She has background in machine learning and medical computing, and currently uses machine learning for probabilistic tornado prediction. Dr. Shotande will share some of her insights in probabilistic modeling with us at iCORE. We are increasingly interested in uncertainty in ML predictions: how to effectively quantify it and communicate it with users affected by the model. This should be broadly interesting to AI practitioners, so I encourage your attendance online or in person. 
 
-
-
 ## PhD Dissertation Defenses
 
 ### Abhishek Phadke (March 29)
@@ -47,6 +45,10 @@ Abhishke defended his PhD in the GSCS program last Friday. I believe that he is 
 - When: April 5, 8:00 AM
 - Where: RFEB 108 
 - [Remote Meeting Link](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fus05web.zoom.us%2Fj%2F86721343628%3Fpwd%3DJXAaFNbbmmZaHWWFeoU7u2fzagd52Z.1&data=05%7C02%7Cekrell%40islander.tamucc.edu%7Ceb76c68f36b646c4553108dc4f4e7025%7C34cbfaf167a64781a9ca514eb2550b66%7C0%7C0%7C638472445526248465%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=EQX8zvrcUVoj6htkTqdNyIISXd%2BqZwpU25hL3p2gUlc%3D&reserved=0)
+
+![Wen INSAR pipeline](../img/wen_pipeline.png)
+
+Research framework, from Wen's [2022 publication](https://www.sciencedirect.com/science/article/pii/S0034425722004035).
 
 **Abstract:** Coastal regions have been increasingly affected by floods due to heavy rainfall, storm surge, and relative sea-level rise (RSLR) in a changing climate. In particular, land subsidence has been identified as an important cause of RSLR and contributes to the growing flood risk in coastal regions. InSAR has been used as a promising tool for the mapping of coastal subsidence, but the results derived from the prevalent SAR images are limited by the low spatial resolution and short satellite records. Also, previous studies have focused on the projection of direct inundation over subsiding land surface, and there is little understanding of the impacts of subsidence on the structure and performance of stormwater drainage systems. Those impacts could affect key hydrological and hydraulic processes with implications for the magnitude, duration, and frequency of urban flood events. Using the Texas Gulf Coast as the study area, this study systematically investigated the impacts of future subsidence on urban flooding through the development of an integrated framework for measuring and predicting land subsidence and evaluating its hydrological and hydraulic effects. This was achieved through research efforts across three stages: 1) the enhanced characterization of regional land subsidence through the combined use of InSAR and airborne LiDAR results; 2) the temporal fusion of InSAR and airborne LiDAR results, the projection of spatially heterogeneous subsidence rates using deep learning, and the construction of subsidence-corrected future DEMs; and 3) the simulation-based quantification of urban flood risk by incorporating subsidence-caused elevation change of drainage structures. The results of this study could provide new scientific knowledge and predictive tools to improve the characterization, prediction, and adaptation of subsidence and associated urban flood risk in coastal regions.
 
