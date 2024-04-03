@@ -22,7 +22,7 @@ A member of genus _Sisyrinchium_, spotted in Port Aransas.
 
 Last week, we had a great talk from [Dr. José Baca](https://sites.google.com/site/bacajose/) on Modular Robot Systems. He gave a tour through a huge variety of systems for air, water, and space. Most of these were robot systems. For example, single flying robots that can be combined to create larger flying robots. These can be combined to acheive various mission configurations. Not all systems were robots: for example, a set of modular lights that can be attached to vehicles, spacesuits. etc. They are doing a lot of very interest work over at CORAL (Collaborative Robots and Agents Lab). Hopefully there will be collaboration with iCORE in the future. 
 
-### Next Meeting: March 29, 3:30 - 5:00 PM
+### Next Meeting: April 12, 3:30 - 5:00 PM
 
 **iCORE Event**
 
