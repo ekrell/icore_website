@@ -44,7 +44,7 @@ Abhishke defended his PhD in the GSCS program last Friday. I believe that he is 
 - Title: Assessment of the Impacts of Subsidence on Coastal Flood Risk Using Geodetic Remote Sensing, Machine Learning, and Hydrological Modeling
 - When: April 5, 8:00 AM
 - Where: RFEB 108 
-- [Remote Meeting Link](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fus05web.zoom.us%2Fj%2F86721343628%3Fpwd%3DJXAaFNbbmmZaHWWFeoU7u2fzagd52Z.1&data=05%7C02%7Cekrell%40islander.tamucc.edu%7Ceb76c68f36b646c4553108dc4f4e7025%7C34cbfaf167a64781a9ca514eb2550b66%7C0%7C0%7C638472445526248465%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=EQX8zvrcUVoj6htkTqdNyIISXd%2BqZwpU25hL3p2gUlc%3D&reserved=0)
+- [Remote Meeting Link](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fus05web.zoom.us%2Fj%2F86721343628%3Fpwd%3DJXAaFNbbmmZaHWWFeoU7u2fzagd52Z.1&data=05%7C02%7Cekrell%40islander.tamucc.edu%7Cec83387d2fae42010ffe08dc54ca922c%7C34cbfaf167a64781a9ca514eb2550b66%7C0%7C0%7C638478476301497269%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=ShqO7MsbecbPXiTAb5kWzW2g%2FlkHHcENYo00dqftxuM%3D&reserved=0)
 
 ![Wen INSAR pipeline](../img/wen_pipeline.png)
 
