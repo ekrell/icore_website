@@ -44,12 +44,13 @@ Please [RSVP here](https://tamucc.campuslabs.com/engage/event/10103109).
 
 ### Congratulations
 
-- Abhishek Phadke: graduated with a PhD in the GSCS program!
-- Wen Zhong: graduated with a PhD in the GSCS program!
-- Miranda White: defended a PhD proposal in the CMSS program!
-- Mahmoud Eldefrawy: defended a PhD proposal in the GSCS program!
-- Evan Krell: defended a PhD proposal in the GSCS program!
-- Evan, Miranda, Mahmoud: either finished or are currently working on qualifying exams. 
+- **Marina Vicens-Miquel:** graduated with a PhD in the GSCS program!
+- **Wen Zhong:** graduated with a PhD in the GSCS program!
+- **Abhishek Phadke:** graduated with a PhD in the GSCS program!
+- **Miranda White:** defended a PhD proposal in the CMSS program!
+- **Mahmoud Eldefrawy:** defended a PhD proposal in the GSCS program!
+- **Evan Krell:** defended a PhD proposal in the GSCS program!
+- **Evan, Miranda, Mahmoud:** either finished or are currently working on qualifying exams. 
 
 ### Symposium for Student Innovation, Research, and Creative Activities is this Friday, April 26!
 
