@@ -34,7 +34,7 @@ However, we are collaborating with MSGSO to host a Python workshop tomorrow morn
 
 ### iCORE + MSGSO Event: Intro to Python Workshop
 
-![Event flyer](icore-msgso_python-workshop_spring2024.png)
+![Event flyer](../img/icore-msgso_python-workshop_spring2024.png)
 
 iCORE and MSGSO are working together to present this Intro to Python workshop. The focus is on Python for _data science_, and assumes no previous Python experience. In this three-hour session, we will start from the absolute basics of Python and end by training a machine learning model using the Random Forest algorithm. The workshop will introduce `numpy`, `pandas`, `matplotlib`, `scipy` and other Python modules that are frequenty used for scientific computing. 
 
